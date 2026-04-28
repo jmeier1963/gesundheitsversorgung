@@ -7,6 +7,7 @@ title: "Downloads"
 - [Oeffentlicher Katalog als CSV](data/public/approaches.csv)
 - [Codebook fuer den oeffentlichen Katalog](data/public/codebook.md)
 - [Rechercheprotokoll](research/rechercheprotokoll.md)
+- [Deep Research Praxisbeispiele](research/praxisbeispiele-deepresearch.md)
 
 ## Publikationen
 

@@ -3,7 +3,9 @@ title: "Praxisbeispiele"
 page-layout: full
 ---
 
-Diese Seite zeigt die oeffentlich freigegebenen Praxisansaetze aus `data/public/approaches.csv`. Der Datensatz beginnt mit Beispielzeilen fuer die Struktur und wird im Projektverlauf durch recherchierte und gepruefte Ansaetze ersetzt oder erweitert.
+Diese Seite zeigt die oeffentlich freigegebenen Praxisansaetze aus `data/public/approaches.csv`. Der aktuelle Recherchestand buendelt kommunale Gesundheitszentren, regionale Aerzte- und Versorgungsnetze, sozialraumnahe Stadtteilgesundheitszentren, Lotsen- und Delegationsmodelle sowie europaeische Primaerversorgungsmodelle.
+
+Die Beispiele sind noch keine abschliessende Empfehlungsliste. Sie bilden einen kuratierten Startkatalog fuer die weitere Pruefung: Welche Modelle reduzieren Barrieren, welche Rahmenbedingungen tragen zur Verstetigung bei und welche Ansaetze lassen sich auf laendliche oder strukturschwache Raeume uebertragen?
 
 ## Einstieg ueber die Karte
 

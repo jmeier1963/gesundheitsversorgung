@@ -4,15 +4,16 @@ title: "Synthese"
 
 ## Vorlaeufige Typologie
 
-Die recherchierten Ansaetze lassen sich in fuenf Typen buendeln. Die Typologie ist vorlaeufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europaeischen Vergleichsfaellen weiter geschaerft.
+Die recherchierten Ansaetze lassen sich nach der erweiterten Praxisrecherche in sechs Typen buendeln. Die Typologie ist vorlaeufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europaeischen Vergleichsfaellen weiter geschaerft.
 
 | Typ | Kernidee | Beispiele im Katalog | Potenzial |
 |---|---|---|---|
 | Integrierte regionale Versorgung | Ambulante, stationaere, pflegerische und praeventive Angebote werden regional koordiniert. | Gesundes Kinzigtal, ASZ Templin | Hohe Strukturwirkung, aber hoher Koordinations- und Finanzierungsbedarf. |
-| Kommunale oder regionale Gesundheitszentren | Versorgung wird an einem Ort gebuendelt und fuer Fachkraefte attraktiver organisiert. | Gesundheitszentrum Buesum, PORT-Zentren | Stark fuer laendliche Regionen mit Nachfolgeproblemen. |
-| Lebensweltnahe Lotsen- und Beratungsangebote | Menschen erhalten Orientierung, Praevention und soziale Unterstuetzung in ihrem Alltag. | Gesundheitskiosk Billstedt/Horn, Slaintecare Healthy Communities | Besonders relevant fuer benachteiligte Gruppen und Gesundheitskompetenz. |
-| Nachwuchs- und Teammodelle | Versorgung wird durch Ausbildungspfade, Delegation und neue Rollen robuster gemacht. | Landpartie 2.0, Teamarbeit gegen Aerztemangel | Wirkt mittel- bis langfristig gegen Fachkraeftemangel. |
-| Community- und Sozialverschreibung | Medizinische Versorgung wird mit Gruppen, Vereinen und lokalen Ressourcen verbunden. | NHS Social Prescribing | Niedrigschwellig, aber abhaengig von lokaler Infrastruktur und Evaluation. |
+| Kommunale oder regionale Gesundheitszentren | Versorgung wird an einem Ort gebuendelt und fuer Fachkraefte attraktiver organisiert. | Gesundheitszentrum Buesum, PORT-Zentren, GeKo Neukoelln | Stark fuer laendliche Regionen mit Nachfolgeproblemen und fuer benachteiligte Quartiere. |
+| Regionale Aerzte- und Praxisnetze | Bestehende Praxen und Einrichtungen organisieren Versorgungspfade, Management und Kooperation. | HaffNet, Eutin-Malente, MuM Buende, prosper proGesund | Nutzbar wenn eine Region keine neue Grossstruktur aufbauen kann. |
+| Lebensweltnahe Lotsen- und Beratungsangebote | Menschen erhalten Orientierung, Praevention und soziale Unterstuetzung in ihrem Alltag. | Gesundheitskiosk Billstedt/Horn, Poliklinik Veddel, Slaintecare Healthy Communities | Besonders relevant fuer benachteiligte Gruppen und Gesundheitskompetenz. |
+| Delegations- und aufsuchende Modelle | Versorgung kommt naeher an Haushalt oder Pflegeumfeld und nutzt nichtaerztliche Rollen. | Unternehmung Gesundheit Hochfranken, Gemeindeschwester plus, HI-PLUS | Entlastet Aerzt*innen und verbessert Zugang fuer mobilitaetseingeschraenkte Menschen. |
+| Europaeische Primaerversorgungsmodelle | Primaerversorgung wird als regionale oeffentliche Infrastruktur organisiert. | Centros de Salud, Vardcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties | Liefert Strukturimpulse fuer Governance, Teams und regionale Verantwortung. |
 
 ## Gelingensbedingungen
 
@@ -23,6 +24,7 @@ Die recherchierten Ansaetze lassen sich in fuenf Typen buendeln. Die Typologie i
 - Sichtbare Anlaufstellen: Vertrauen entsteht leichter, wenn Menschen wissen, wo sie hingehen koennen und wer fuer ihr Anliegen zustaendig ist.
 - Partizipation mit Rueckbindung: Beteiligung wirkt nur, wenn Rueckmeldungen erkennbar in Angebotsgestaltung und Prioritaeten einfliessen.
 - Verstetigung: Innovationsfonds- oder Modellmittel sollten frueh mit Regelfinanzierung, kommunaler Traegerschaft oder Landesprogrammen verbunden werden.
+- Digitale Infrastruktur mit Zweckbindung: Telemedizin und gemeinsame Dokumentation tragen nur, wenn sie konkrete Behandlungspfade und Rollen unterstuetzen.
 
 ## Typische Huerden
 

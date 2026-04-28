@@ -16,6 +16,21 @@ title: "Quellen"
 - PubMed / Deutsches Aerzteblatt International: [Ten-Year Evaluation of Gesundes Kinzigtal](https://pubmed.ncbi.nlm.nih.gov/33867008/).
 - Gov.ie: [Slaintecare Healthy Communities](https://www.gov.ie/en/healthy-ireland/publications/sl%C3%A1intecare-healthy-communities/).
 - NHS England: [Social prescribing](https://www.england.nhs.uk/personalisedcare/social-prescribing/).
+- Neue Gesundheitsnetze: [Beispiele im Ueberblick](https://www.neue-gesundheitsnetze.de/praxisbeispiele/).
+- Neue Gesundheitsnetze: [HaffNet am Stettiner Haff](https://www.neue-gesundheitsnetze.de/praxisbeispiele/haffnet/).
+- Neue Gesundheitsnetze: [Aerztenetz Eutin-Malente](https://www.neue-gesundheitsnetze.de/praxisbeispiele/eutin-malente/).
+- Neue Gesundheitsnetze: [ParkinsonNetzwerk Ostsachsen](https://www.neue-gesundheitsnetze.de/praxisbeispiele/panos/).
+- Neue Gesundheitsnetze: [Unternehmung Gesundheit Hochfranken](https://www.neue-gesundheitsnetze.de/praxisbeispiele/ugho/).
+- Neue Gesundheitsnetze: [prosper proGesund Modell der KNAPPSCHAFT](https://www.neue-gesundheitsnetze.de/praxisbeispiele/prosper/).
+- Gesundheitskollektiv Berlin: [GeKo Stadtteil-Gesundheits-Zentrum Neukoelln](https://geko-berlin.de/).
+- Poliklinik Veddel: [Stadtteil-Gesundheitszentrum](https://poliklinik1.org/).
+- G-BA Innovationsfonds: [StatAMed](https://innovationsfonds.g-ba.de/projekte/neue-versorgungsformen/statamed.563).
+- G-BA Innovationsfonds: [NAVIGATION](https://innovationsfonds.g-ba.de/projekte/navigation.635).
+- G-BA Innovationsfonds: [HI-PLUS](https://innovationsfonds.g-ba.de/projekte/hi-plus.378).
+- Robert Bosch Stiftung: [Centros de Salud in Spanien](https://www.bosch-stiftung.de/de/publikation/port-patientenorientierte-zentren-zur-primaer-und-langzeitversorgung-gesundheitszentren).
+- Robert Bosch Stiftung: [Vardcentraler in Nordschweden](https://www.bosch-stiftung.de/de/publikation/port-patientenorientierte-zentren-zur-primaer-und-langzeitversorgung-versorgungszentren).
+- Robert Bosch Stiftung: [Zdravstveni Domovi in Slowenien](https://www.bosch-stiftung.de/de/publikation/port-patientenorientierte-zentren-zur-primaer-und-langzeitversorgung-0).
+- Suomi.fi: [Wellbeing Services Counties](https://www.suomi.fi/citizen/rights-and-participation-in-society/legal-and-consumer-protection/guide/how-finlands-public-administration-works/wellbeing-services-county).
 
 ## Quellenarbeit
 
