@@ -67,7 +67,7 @@ liegt jedoch häufig bei den Kommunen. Bürgermeister*innen, Verwaltungen,
 Gesundheitsämter und zivilgesellschaftliche Akteur*innen können daher
 wichtige Impulse setzen.
 Laut einer Befragung aus dem Jahr 2024 hat mehr als die Hälfte der ländlichen
-Kommunen bereits Maßnahmen ergriffen, um Hausärzt*innen zu gewinnen. 
+Kommunen bereits Maßnahmen ergriffen, um Hausärzt*innen zu gewinnen.
 (Forsa (2023), Umfrage zu Abschluss der „Initiative Neustart!“, Ergebnisse der
 bundesweiten Befragung (im Auftrag der Robert Bosch Stiftung))
 Bertelsmann Stiftung (2025), Hausärztliche Versorgung der Zukunft, Neue Empirie zu
@@ -127,7 +127,7 @@ diese Wahrnehmung ihr Vertrauen in Staat und Politik beeinflusst. Ziel ist es,
 ein fundiertes Verständnis dafür zu gewinnen, wann Gesundheitsversorgung
 als gerecht, ausreichend und vertrauensstärkend erlebt wird und wann nicht.
 Dazu wird zunächst der aktuelle Forschungsstand zu Versorgungsbedarfen,
-Angebotsstrukturen und deren Wirkung systematisch ausgewertet und um Perspektiven von 
+Angebotsstrukturen und deren Wirkung systematisch ausgewertet und um Perspektiven von
 Verantwortlichen aus Bundes- und Landespolitik, mit dem
 Gesundheitssystem (z. B. Trägern von Gesundheitseinrichtungen, Verbänden
 oder Krankenkassen), sowie Vertreter*innen der Wissenschaft und
