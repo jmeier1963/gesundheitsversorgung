@@ -14,7 +14,6 @@ Die Beispiele sind noch keine abschließende Empfehlungsliste. Sie bilden einen 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <div class="map-shell">
   <div id="practice-map" class="practice-map" aria-label="Interaktive OpenStreetMap-Karte der Praxisbeispiele"></div>
-  <div id="map-list" class="map-list" aria-label="Praxisbeispiele auf der Karte"></div>
 </div>
 ```
 
@@ -145,9 +144,6 @@ function focusExample(id) {
   document.querySelectorAll(".catalog-card").forEach((cardElement) => {
     cardElement.classList.toggle("is-highlighted", cardElement.dataset.exampleId === id);
   });
-  document.querySelectorAll(".map-list button").forEach((element) => {
-    element.classList.toggle("is-active", element.dataset.exampleId === id);
-  });
   const marker = markersById[id];
   if (marker && practiceMap) {
     practiceMap.setView(marker.getLatLng(), Math.max(practiceMap.getZoom(), 8), { animate: true });
@@ -158,9 +154,8 @@ function focusExample(id) {
 }
 
 function renderMap(data) {
-  const list = document.getElementById("map-list");
   const mapElement = document.getElementById("practice-map");
-  if (!mapElement || !list) return;
+  if (!mapElement) return;
   if (typeof L === "undefined") {
     mapElement.textContent = "Die Karte konnte nicht geladen werden.";
     return;
@@ -169,7 +164,6 @@ function renderMap(data) {
   initMap();
   markerGroup.clearLayers();
   markersById = {};
-  list.replaceChildren();
 
   const bounds = [];
   data.forEach((row) => {
@@ -183,13 +177,6 @@ function renderMap(data) {
       markersById[row.id] = marker;
       bounds.push([latitude, longitude]);
     }
-
-    const listItem = document.createElement("button");
-    listItem.type = "button";
-    listItem.dataset.exampleId = row.id;
-    listItem.innerHTML = `<strong>${row.name}</strong><span>${row.ort_region} · ${row.bundesland_land}</span>`;
-    listItem.addEventListener("click", () => focusExample(row.id));
-    list.appendChild(listItem);
   });
 
   if (bounds.length > 0) {
