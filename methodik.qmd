@@ -8,15 +8,15 @@ Das Projekt kombiniert Literatur- und Dokumentenanalyse, Interviews, regionale V
 
 ## Arbeitspakete
 
-| Arbeitspaket | Kernfrage | Geplantes Ergebnis |
+| Arbeitspaket | Kernfrage | Erste Ergebnisse |
 |---|---|---|
-| Forschungsstand | Was ist über gesundheitliche Ungleichheit, Versorgungslücken und demokratisches Vertrauen bekannt? | Evidenzbasis und Hypothesen |
-| Bedarfsanalyse | Wann wird Versorgung als gerecht, ausreichend und vertrauensstärkend erlebt? | Kriterienmodell |
-| Bestandsaufnahme | Welche lokalen und europäischen Ansätze sind vielversprechend? | Katalog und Typologie |
-| Vertiefung | Welche Rahmenbedingungen, Kooperationen und Prozesse tragen zum Erfolg bei? | Fallstudien und Handlungsschritte |
-| Synthese | Welche Empfehlungen ergeben sich für Praxis und Politik? | Broschüre, Policy Paper, Abschlussstudie |
+| Forschungsstand | Was ist über gesundheitliche Ungleichheit, Versorgungslücken und demokratisches Vertrauen bekannt? | Die [Evidenzbasis](forschungsstand.qmd#evidenzbasis) zeigt regionale Gesundheitsungleichheit, hausärztliche Engpässe und Vertrauen als Alltagserfahrung öffentlicher Leistungsfähigkeit. |
+| Bedarfsanalyse | Wann wird Versorgung als gerecht, ausreichend und vertrauensstärkend erlebt? | Das [Kriterienmodell](methodik.qmd#kriterienmodell) bündelt Erreichbarkeit, Verlässlichkeit, Kontinuität, Verständlichkeit, Lebensweltbezug, Partizipation, Teamrobustheit, Governance und Vertrauen. |
+| Bestandsaufnahme | Welche lokalen und europäischen Ansätze sind vielversprechend? | Der [Katalog](praxisbeispiele.qmd#katalog) enthält derzeit 35 Praxisbeispiele; die [Typologie](synthese.qmd#typologie) ordnet sie in sieben übertragbare Modellfamilien. |
+| Vertiefung | Welche Rahmenbedingungen, Kooperationen und Prozesse tragen zum Erfolg bei? | Die [Vertiefungsfälle](synthese.qmd#vertiefungsfaelle) zeigen unterschiedliche Strukturfragen; die [Handlungsschritte](synthese.qmd#handlungsschritte) übersetzen sie in einen lokalen Umsetzungspfad. |
+| Synthese | Welche Empfehlungen ergeben sich für Praxis und Politik? | Die [Handlungsempfehlungen](handlungsempfehlungen.qmd) fokussieren Koordination als Infrastruktur, Teamversorgung, kommunale Planung und Wirkungsmessung über Kosten hinaus. |
 
-## Kriterienmodell
+## Kriterienmodell {#kriterienmodell}
 
 Die Bedarfsanalyse übersetzt Forschungsstand und Feldperspektiven in ein Kriterienmodell. Es beschreibt nicht nur, ob ein Angebot vorhanden ist, sondern ob es für Menschen als gerecht, erreichbar und vertrauenswürdig funktioniert.
 

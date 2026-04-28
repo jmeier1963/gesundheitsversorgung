@@ -2,53 +2,105 @@
 title: "Synthese"
 ---
 
-## Vorläufige Typologie
+## Ergebnisbild
 
-Die recherchierten Ansätze lassen sich nach der erweiterten Praxisrecherche in sieben Typen bündeln. Die Typologie ist vorläufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europäischen Vergleichsfällen weiter geschärft.
+Die bisherige Recherche zeigt 35 öffentlich dokumentierte Praxisbeispiele: 26 aus Deutschland und 9 europäische Referenzmodelle. Der Katalog ist damit noch kein abschließendes Ranking, aber bereits stark genug, um Muster sichtbar zu machen. Auffällig ist: Vertrauensstärkende Versorgung entsteht selten durch eine einzelne neue Einrichtung. Sie entsteht dort, wo Versorgung, Beratung, Prävention, soziale Unterstützung und regionale Steuerung praktisch verbunden werden.
 
-| Typ | Kernidee | Beispiele im Katalog | Potenzial |
+Drei Ergebnisse tragen die bisherige Synthese:
+
+- Zugang wird nicht nur durch Entfernung bestimmt. Menschen erleben Versorgung als gerecht, wenn Wege, Wartezeiten, Sprache, Zuständigkeiten und Anschlussangebote zusammenpassen.
+- Koordination ist kein Zusatz, sondern die zentrale Infrastrukturleistung. Lotsenfunktion, Case Management, Netzwerkmanagement und gemeinsame Behandlungspfade entscheiden darüber, ob vorhandene Angebote wirklich nutzbar werden.
+- Robuste Modelle verschieben den Fokus von Einzelpraxen auf Teams, Zentren und regionale Verantwortung. Das ist besonders wichtig in ländlichen, alternden oder sozial benachteiligten Räumen.
+
+## Vorläufige Typologie {#typologie}
+
+Die recherchierten Ansätze lassen sich nach der erweiterten Praxisrecherche in sieben Typen bündeln. Die Typologie wird mit weiteren deutschen Beispielen sowie den europäischen Vergleichsfällen weiter geschärft.
+
+| Typ | Ergebnis der Recherche | Beispiele im Katalog | Transferbedingung |
 |---|---|---|---|
-| Integrierte regionale Versorgung | Ambulante, stationäre, pflegerische und präventive Angebote werden regional koordiniert. | Gesundes Kinzigtal, ASZ Templin | Hohe Strukturwirkung, aber hoher Koordinations- und Finanzierungsbedarf. |
-| Kommunale oder regionale Gesundheitszentren | Versorgung wird an einem Ort gebündelt und für Fachkräfte attraktiver organisiert. | Gesundheitszentrum Büsum, PORT-Zentren, GeKo Neukölln | Stark für ländliche Regionen mit Nachfolgeproblemen und für benachteiligte Quartiere. |
-| Regionale Ärzte- und Praxisnetze | Bestehende Praxen und Einrichtungen organisieren Versorgungspfade, Management und Kooperation. | HaffNet, Eutin-Malente, MuM Bünde, prosper proGesund | Nutzbar wenn eine Region keine neue Großstruktur aufbauen kann. |
-| Lebensweltnahe Lotsen- und Beratungsangebote | Menschen erhalten Orientierung, Prävention und soziale Unterstützung in ihrem Alltag. | Gesundheitskiosk Billstedt/Horn, Poliklinik Veddel, Slaintecare Healthy Communities | Besonders relevant für benachteiligte Gruppen und Gesundheitskompetenz. |
-| Delegations- und aufsuchende Modelle | Versorgung kommt näher an Haushalt oder Pflegeumfeld und nutzt nichtärztliche Rollen. | Unternehmung Gesundheit Hochfranken, Gemeindeschwester plus, HI-PLUS | Entlastet Ärzt*innen und verbessert Zugang für mobilitätseingeschränkte Menschen. |
-| Europäische Primärversorgungsmodelle | Primärversorgung wird als regionale öffentliche Infrastruktur organisiert. | Centros de Salud, Vardcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties | Liefert Strukturimpulse für Governance, Teams und regionale Verantwortung. |
-| Delegation und Telemedizin | Nichtärztliche Rollen und digitale Rückbindung machen Versorgung außerhalb der Praxis möglich. | TeleArzt, Gemeindenotfallsanitäter, Telnet@NRW, Community Health Nursing | Erweitert Reichweite und entlastet knappe ärztliche Ressourcen, braucht aber klare Verantwortlichkeiten. |
+| Integrierte regionale Versorgung | Modelle mit regionaler Steuerung können Versorgungslücken systematisch bearbeiten, wenn ambulante, stationäre, pflegerische und präventive Angebote gemeinsam gedacht werden. | Gesundes Kinzigtal, ASZ Templin | Braucht verbindliche Governance, Datennutzung und Finanzierungslogik über Sektorengrenzen hinweg. |
+| Kommunale oder regionale Gesundheitszentren | Zentren machen Versorgung sichtbar, bündeln Rollen und können Fachkräfte durch Teamarbeit und planbarere Arbeitsbedingungen binden. | Gesundheitszentrum Büsum, PORT-Zentren, GeKo Neukölln | Trägerschaft, Raum, Personalplanung und Schnittstellen zur Regelversorgung müssen früh geklärt sein. |
+| Regionale Ärzte- und Praxisnetze | Netzwerke sind stark, wenn eine Region keine neue Großstruktur aufbauen kann, aber vorhandene Praxen gemeinsam handlungsfähiger werden sollen. | HaffNet, Eutin-Malente, MuM Bünde, prosper proGesund | Netzwerkmanagement muss finanziert und mit klaren Versorgungspfaden hinterlegt werden. |
+| Lebensweltnahe Lotsen- und Beratungsangebote | Niedrigschwellige Orte senken Navigationslast und erreichen Gruppen, die formale Versorgung oft spät oder gar nicht nutzen. | Gesundheitskiosk Billstedt/Horn, Gesundheitskioske Essen, Poliklinik Veddel, Slaintecare Healthy Communities | Beratung muss mit realen Anschlussmöglichkeiten verbunden sein, sonst bleibt sie Orientierung ohne Lösungsmacht. |
+| Delegations- und aufsuchende Modelle | Versorgung kommt näher an Haushalt, Pflegeumfeld oder Quartier und nutzt nichtärztliche Rollen produktiv. | Unternehmung Gesundheit Hochfranken, Gemeindeschwester plus, HI-PLUS | Aufgaben, Haftung, Dokumentation und ärztliche Rückbindung müssen eindeutig geregelt sein. |
+| Europäische Primärversorgungsmodelle | Länder mit stärker organisierter Primärversorgung zeigen, dass Teams, regionale Verantwortung und öffentliche Planung zentrale Strukturhebel sind. | Centros de Salud, Vårdcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties, österreichische PVE, französische MSP | Übertragbar sind vor allem Governance-Prinzipien, nicht jedes institutionelle Detail. |
+| Delegation und Telemedizin | Digitale Rückbindung erweitert Reichweite, wenn sie konkrete Behandlungspfade unterstützt und nicht nur Technik bereitstellt. | TeleArzt, Gemeindenotfallsanitäter, Telnet@NRW, Community Health Nursing | Telemedizin braucht Teamrollen, Akzeptanz vor Ort und Anschluss an Praxen, Kliniken oder kommunale Strukturen. |
+
+## Zentrale Befunde
+
+**1. Vertrauen folgt der Erfahrung von Zuständigkeit.**  
+Menschen erleben Versorgung als vertrauensstärkend, wenn sie nicht an Schnittstellen hängen bleiben. Besonders relevant sind feste Ansprechpartner*innen, verständliche Wege, aktive Weiterleitung und sichtbare Rückmeldung. Gesundheitskioske, Social Prescribing und Community-Health-Ansätze zeigen diesen Mechanismus besonders deutlich.
+
+**2. Gleichwertigkeit braucht regionale Gestaltungsspielräume.**  
+Der gleiche Standard kann in einer Großstadt, einer Flächengemeinde und einem dünn besiedelten Landkreis nicht identisch organisiert werden. Erfolgreiche Beispiele übersetzen Versorgung in lokale Arrangements: Zentrum, Netzwerk, mobile Rolle, Telekonsil oder Lotsenstruktur.
+
+**3. Fachkräftemangel wird durch Teamlogik bearbeitbar.**  
+Die Recherche zeigt kaum tragfähige Modelle, die allein auf die Nachbesetzung einzelner Arztsitze setzen. Wiederkehrend sind Delegation, interprofessionelle Teams, MVZ-Strukturen, Pflege- und Beratungsrollen sowie digitale Unterstützung.
+
+**4. Prävention und soziale Beratung sind keine Randthemen.**  
+Viele Barrieren liegen vor der medizinischen Behandlung: fehlendes Systemwissen, Sprache, Mobilität, Sorgearbeit, Armut oder Misstrauen. Modelle mit sozialraumbezogener Beratung erreichen deshalb andere Bedarfe als klassische Versorgungsangebote.
+
+**5. Verstetigung entscheidet über Wirkung.**  
+Projektförderung kann Innovation ermöglichen, erzeugt aber Unsicherheit. Die stärkeren Modelle suchen früh den Übergang in kommunale Verantwortung, Krankenkassenlogik, Landesprogramme, KV-Strukturen oder tragfähige Netzwerkfinanzierung.
+
+## Kriterienmodell in der Anwendung
+
+Das Kriterienmodell aus der Methodik hilft, Praxisbeispiele nicht nur als gute Ideen, sondern als Versorgungsantworten zu prüfen.
+
+| Kriterium | Was die Recherche zeigt | Beispielhafte Hinweise |
+|---|---|---|
+| Erreichbarkeit | Räumliche Nähe allein reicht nicht; entscheidend sind Wege, Öffnungszeiten, mobile Angebote und digitale Ergänzung. | Zentren, Hausbesuche, Televisiten, regionale Netzwerke. |
+| Kontinuität | Vertrauen wächst, wenn Zuständigkeiten wiedererkennbar sind. | feste Teams, Case Management, Lotsenrollen. |
+| Verständlichkeit | Orientierung ist selbst eine Versorgungsleistung. | Gesundheitskioske, Social Prescribing, mehrsprachige Beratung. |
+| Lebensweltbezug | Angebote wirken stärker, wenn sie Alltag, Quartier, Familie und soziale Lage mitdenken. | Stadtteilgesundheitszentren, kommunale Präventionsangebote. |
+| Teamrobustheit | Modelle werden robuster, wenn ärztliche Zeit gezielt eingesetzt und andere Rollen gestärkt werden. | VERAH/NäPA, Community Health Nursing, Gemeindenotfallsanitäter. |
+| Governance | Gute Modelle brauchen eine verantwortliche Struktur, nicht nur engagierte Einzelpersonen. | Kommune, KV, Krankenkassen, Trägerverbünde, regionale Netzwerke. |
+| Vertrauen und Teilhabe | Beteiligung wird wirksam, wenn Rückmeldungen sichtbar in Angebote einfließen. | Fokusgruppen, Beiräte, lokale Workshops, Beschwerdewege. |
 
 ## Gelingensbedingungen
 
 - Lokale Problemdiagnose: Gute Modelle starten mit einer konkreten regionalen Bedarfsanalyse statt mit einer fertigen Blaupause.
 - Geteilte Verantwortung: Erfolgreiche Ansätze verbinden Kommune, Leistungserbringer, Krankenkassen, Land/KV und Zivilgesellschaft.
-- Koordination als eigene Leistung: Lotsen-, Case-Management- und Netzwerkfunktionen muessen finanziert und personell verankert werden.
+- Koordination als eigene Leistung: Lotsen-, Case-Management- und Netzwerkfunktionen müssen finanziert und personell verankert werden.
 - Interprofessionelle Teams: Delegation und Zusammenarbeit entlasten Ärzt*innen und machen Versorgung für Fachkräfte attraktiver.
-- Sichtbare Anlaufstellen: Vertrauen entsteht leichter, wenn Menschen wissen, wo sie hingehen können und wer für ihr Anliegen zuständig ist.
+- Sichtbare Anlaufstellen: Vertrauen entsteht leichter, wenn Menschen wissen, wohin sie gehen können und wer für ihr Anliegen zuständig ist.
 - Partizipation mit Rückbindung: Beteiligung wirkt nur, wenn Rückmeldungen erkennbar in Angebotsgestaltung und Prioritäten einfließen.
 - Verstetigung: Innovationsfonds- oder Modellmittel sollten früh mit Regelfinanzierung, kommunaler Trägerschaft oder Landesprogrammen verbunden werden.
-- Digitale Infrastruktur mit Zweckbindung: Telemedizin und gemeinsame Dokumentation tragen nur, wenn sie konkrete Behandlungspfade und Rollen unterstuetzen.
+- Digitale Infrastruktur mit Zweckbindung: Telemedizin und gemeinsame Dokumentation tragen nur, wenn sie konkrete Behandlungspfade und Rollen unterstützen.
 
-## Typische Huerden
+## Typische Hürden
 
-| Huerde | Wirkung | Konsequenz für Handlungsempfehlungen |
+| Hürde | Wirkung | Konsequenz für Handlungsempfehlungen |
 |---|---|---|
 | Sektorengrenzen | Ambulante, stationäre, Pflege- und Sozialleistungen bleiben getrennt. | Gemeinsame regionale Steuerung und klare Finanzierungswege schaffen. |
-| Projektfoerderlogik | Gute Modelle enden oder schrumpfen nach Foerderende. | Verstetigungskonzept bereits im Design verlangen. |
+| Projektförderlogik | Gute Modelle enden oder schrumpfen nach Förderende. | Verstetigungskonzept bereits im Design verlangen. |
 | Fachkräftemangel | Einzelne Praxen bleiben trotz Förderung unbesetzt. | Teammodelle, Delegation und attraktive Arbeitsbedingungen priorisieren. |
 | Datenlücken | Wirkungen auf Teilhabe und Vertrauen sind schwer messbar. | Routine-, Befragungs- und qualitative Daten kombinieren. |
 | Unklare Zuständigkeit | Bürger*innen erleben Institutionen als abweisend oder unübersichtlich. | Lotsenfunktion und verbindliche Koordinierungsstellen etablieren. |
 
-## Vertiefungsfaelle
+## Vertiefungsfälle {#vertiefungsfaelle}
 
-Für die Begleitphase eignen sich besonders Faelle, die unterschiedliche Strukturfragen abdecken:
+Für die Begleitphase eignen sich besonders Fälle, die unterschiedliche Strukturfragen abdecken:
 
 - ASZ Templin als Fall für sektorenübergreifende Versorgung in einer ländlichen Region.
-- Gesundheitszentrum Büsum als Fall für kommunale Verantwortung und Attraktivitaet für Hausaerzt*innen.
+- Gesundheitszentrum Büsum als Fall für kommunale Verantwortung und Attraktivität für Hausärzt*innen.
 - Gesundheitskiosk Billstedt/Horn als Fall für lebensweltnahe Beratung in deprivierten Räumen.
 - Gesundes Kinzigtal als Fall für populationsbezogene integrierte Versorgung und Langzeitevaluation.
+- Gemeindenotfallsanitäter/ILEG als Fall für Delegation, Akutsteuerung und Entlastung von Notfallstrukturen.
+
+## Handlungsschritte {#handlungsschritte}
+
+Aus den bisherigen Befunden ergibt sich ein pragmatischer Umsetzungspfad für lokale Akteure:
+
+| Schritt | Leitfrage | Ergebnis |
+|---|---|---|
+| 1. Bedarf klären | Welche Gruppen erleben Versorgung als unerreichbar, unverständlich oder unzuverlässig? | Kurzes regionales Bedarfsprofil mit Daten und Erfahrungswissen. |
+| 2. Akteurskreis bilden | Wer kann Versorgung, Beratung, Prävention und soziale Unterstützung verbinden? | Verbindlicher Kreis aus Kommune, Praxen, Pflege, Klinik, Kassen, KV, Zivilgesellschaft. |
+| 3. Anlaufstelle definieren | Wo entsteht für Bürger*innen eine erkennbare Zuständigkeit? | Zentrum, Kiosk, Lotsenteam, Netzwerkbüro oder mobile Struktur. |
+| 4. Teamrollen klären | Welche Aufgaben müssen nicht zwingend ärztlich erledigt werden? | Rollenprofil für Delegation, Pflege, Beratung, Case Management und digitale Rückbindung. |
+| 5. Finanzierung sichern | Welche Leistungen müssen dauerhaft getragen werden? | Verstetigungsplan mit Regel-, Landes-, kommunaler oder kassenbezogener Finanzierung. |
+| 6. Wirkung beobachten | Woran wird sichtbar, dass Zugang und Vertrauen wachsen? | Indikatoren zu Erreichbarkeit, Nutzung, Zufriedenheit, Teilhabe und Kooperation. |
 
 ## Synthese für Produkte
 
-Die Broschüre sollte lokale Handlungsschritte entlang eines Praxispfads darstellen: Bedarf klären, Akteurskreis bilden, Anlaufstelle definieren, Teamrollen klären, Finanzierung sichern, Wirkung beobachten. Das Policy Paper sollte die strukturellen Hebel für Bund und Länder fokussieren: Regelfinanzierung für Koordination, sektorenübergreifende Zentren, Dateninfrastruktur, Delegationsrahmen und kommunale Gesundheitsplanung.
-
-
-
+Die Broschüre sollte den lokalen Umsetzungspfad in kurze Checklisten und Fallvignetten übersetzen. Das Policy Paper sollte drei Reformbotschaften zuspitzen: Koordination ist Infrastruktur, Primärversorgung braucht Teams, und Gesundheitsversorgung ist Teil demokratischer Daseinsvorsorge. Die Abschlussstudie sollte empirisch zeigen, wie Versorgungserfahrungen, Teilhabe und institutionelles Vertrauen zusammenhängen.
