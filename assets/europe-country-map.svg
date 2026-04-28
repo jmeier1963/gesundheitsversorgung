@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+  <title id="title">Karte von Europa mit Länderumrissen</title>
+  <desc id="desc">Vereinfachte Karte Europas mit hervorgehobenem Deutschland und Nachbarländern.</desc>
+  <rect width="1000" height="620" rx="18" fill="#edf4f1"/>
+  <g fill="#dce9e3" stroke="#9eb8ae" stroke-width="2.2" stroke-linejoin="round">
+    <path d="M78 126 134 87 213 83 253 113 229 162 152 173 101 160Z"/>
+    <path d="M238 77 316 46 397 71 391 134 318 151 256 122Z"/>
+    <path d="M414 73 507 54 567 101 545 166 452 161 399 126Z"/>
+    <path d="M569 90 677 79 752 124 724 198 625 198 545 160Z"/>
+    <path d="M726 123 832 133 918 207 882 294 774 280 721 202Z"/>
+    <path d="M306 166 382 151 434 197 395 264 314 258 280 207Z"/>
+    <path d="M430 171 511 166 556 228 521 297 438 286 398 226Z"/>
+    <path d="M558 201 638 202 684 266 646 338 561 323 521 263Z"/>
+    <path d="M681 272 762 288 805 362 752 428 665 392 642 329Z"/>
+    <path d="M247 254 331 271 365 346 304 402 219 370 204 306Z"/>
+    <path d="M371 294 456 304 496 379 441 444 354 418 328 350Z"/>
+    <path d="M506 318 590 338 618 420 551 477 472 439 452 372Z"/>
+    <path d="M276 408 351 439 369 512 302 556 232 508 219 442Z"/>
+    <path d="M397 455 483 470 520 546 455 590 380 544 359 493Z"/>
+    <path d="M540 478 623 451 702 509 686 590 574 583 518 535Z"/>
+    <path d="M721 431 822 396 920 451 907 555 794 575 694 520Z"/>
+  </g>
+  <g fill="#c7ded5" stroke="#6f9487" stroke-width="2.8" stroke-linejoin="round">
+    <path d="M465 187 510 174 548 205 541 252 507 277 461 263 442 221Z"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="1.3" opacity=".75">
+    <path d="M465 187 510 174 548 205 541 252 507 277 461 263 442 221Z"/>
+  </g>
+  <g fill="#6b8179" font-family="Arial, sans-serif" font-size="17" font-weight="700">
+    <text x="468" y="230">DE</text>
+    <text x="357" y="220">FR</text>
+    <text x="289" y="340">ES</text>
+    <text x="569" y="301">PL</text>
+    <text x="433" y="380">IT</text>
+    <text x="407" y="132">UK</text>
+    <text x="604" y="152">SE</text>
+  </g>
+</svg>

@@ -13,7 +13,7 @@ Die Recherche priorisiert Ansätze mit klarer Quellenlage und erkennbarem Transf
 | Ärzte- und Praxisnetze | HaffNet, Eutin-Malente, MuM Bünde, prosper proGesund |
 | Delegation, Telemedizin und aufsuchende Versorgung | Unternehmung Gesundheit Hochfranken, HI-PLUS, Gemeindeschwester plus |
 | Indikationsspezifische Netzwerke | ParkinsonNetzwerk Ostsachsen |
-| Europäische Referenzmodelle | Slaintecare Healthy Communities, NHS Social Prescribing, Centros de Salud, Vardcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties |
+| Europäische Referenzmodelle | Slaintecare Healthy Communities, NHS Social Prescribing, Centros de Salud, Vardcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties, österreichische Primärversorgungseinheiten, Maisons de santé pluriprofessionnelles, Buurtzorg |
 
 ## Vorläufige Befunde
 
@@ -29,6 +29,7 @@ Die Recherche priorisiert Ansätze mit klarer Quellenlage und erkennbarem Transf
 - G-BA Innovationsfonds: IGiB-StimMT, StatAMed, NAVIGATION und HI-PLUS.
 - Stadtteilgesundheitszentren: GeKo Berlin und Poliklinik Veddel.
 - Europäische Modelle: Slaintecare Healthy Communities, NHS Social Prescribing, Robert Bosch Stiftung PORT-Länderstudien, Suomi.fi zu Wellbeing Services Counties.
+- Weitere Recherchewelle: Zusätzliche PORT-Standorte, Gesundheitskiosk Essen, Gemeindenotfallsanitäter/ILEG, TeleArzt, Telnet@NRW, Community Health Nursing, österreichische PVE, französische MSP und Buurtzorg wurden als übertragbare Modelle für Zentren, Netzwerke, Delegation, Lotsenfunktion und multiprofessionelle Primärversorgung ergänzt.
 
 
 

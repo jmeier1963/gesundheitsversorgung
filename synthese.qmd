@@ -4,16 +4,17 @@ title: "Synthese"
 
 ## Vorläufige Typologie
 
-Die recherchierten Ansätze lassen sich nach der erweiterten Praxisrecherche in sechs Typen bündeln. Die Typologie ist vorläufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europäischen Vergleichsfaellen weiter geschaerft.
+Die recherchierten Ansätze lassen sich nach der erweiterten Praxisrecherche in sieben Typen bündeln. Die Typologie ist vorläufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europäischen Vergleichsfällen weiter geschärft.
 
 | Typ | Kernidee | Beispiele im Katalog | Potenzial |
 |---|---|---|---|
 | Integrierte regionale Versorgung | Ambulante, stationäre, pflegerische und präventive Angebote werden regional koordiniert. | Gesundes Kinzigtal, ASZ Templin | Hohe Strukturwirkung, aber hoher Koordinations- und Finanzierungsbedarf. |
 | Kommunale oder regionale Gesundheitszentren | Versorgung wird an einem Ort gebündelt und für Fachkräfte attraktiver organisiert. | Gesundheitszentrum Büsum, PORT-Zentren, GeKo Neukölln | Stark für ländliche Regionen mit Nachfolgeproblemen und für benachteiligte Quartiere. |
-| Regionale Ärzte- und Praxisnetze | Bestehende Praxen und Einrichtungen organisieren Versorgungspfade, Management und Kooperation. | HaffNet, Eutin-Malente, MuM Bünde, prosper proGesund | Nutzbar wenn eine Region keine neue Grossstruktur aufbauen kann. |
+| Regionale Ärzte- und Praxisnetze | Bestehende Praxen und Einrichtungen organisieren Versorgungspfade, Management und Kooperation. | HaffNet, Eutin-Malente, MuM Bünde, prosper proGesund | Nutzbar wenn eine Region keine neue Großstruktur aufbauen kann. |
 | Lebensweltnahe Lotsen- und Beratungsangebote | Menschen erhalten Orientierung, Prävention und soziale Unterstützung in ihrem Alltag. | Gesundheitskiosk Billstedt/Horn, Poliklinik Veddel, Slaintecare Healthy Communities | Besonders relevant für benachteiligte Gruppen und Gesundheitskompetenz. |
-| Delegations- und aufsuchende Modelle | Versorgung kommt naeher an Haushalt oder Pflegeumfeld und nutzt nichtärztliche Rollen. | Unternehmung Gesundheit Hochfranken, Gemeindeschwester plus, HI-PLUS | Entlastet Ärzt*innen und verbessert Zugang für mobilitaetseingeschraenkte Menschen. |
+| Delegations- und aufsuchende Modelle | Versorgung kommt näher an Haushalt oder Pflegeumfeld und nutzt nichtärztliche Rollen. | Unternehmung Gesundheit Hochfranken, Gemeindeschwester plus, HI-PLUS | Entlastet Ärzt*innen und verbessert Zugang für mobilitätseingeschränkte Menschen. |
 | Europäische Primärversorgungsmodelle | Primärversorgung wird als regionale öffentliche Infrastruktur organisiert. | Centros de Salud, Vardcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties | Liefert Strukturimpulse für Governance, Teams und regionale Verantwortung. |
+| Delegation und Telemedizin | Nichtärztliche Rollen und digitale Rückbindung machen Versorgung außerhalb der Praxis möglich. | TeleArzt, Gemeindenotfallsanitäter, Telnet@NRW, Community Health Nursing | Erweitert Reichweite und entlastet knappe ärztliche Ressourcen, braucht aber klare Verantwortlichkeiten. |
 
 ## Gelingensbedingungen
 
@@ -47,7 +48,7 @@ Für die Begleitphase eignen sich besonders Faelle, die unterschiedliche Struktu
 
 ## Synthese für Produkte
 
-Die Broschüre sollte lokale Handlungsschritte entlang eines Praxispfads darstellen: Bedarf klaeren, Akteurskreis bilden, Anlaufstelle definieren, Teamrollen klaeren, Finanzierung sichern, Wirkung beobachten. Das Policy Paper sollte die strukturellen Hebel für Bund und Laender fokussieren: Regelfinanzierung für Koordination, sektorenübergreifende Zentren, Dateninfrastruktur, Delegationsrahmen und kommunale Gesundheitsplanung.
+Die Broschüre sollte lokale Handlungsschritte entlang eines Praxispfads darstellen: Bedarf klären, Akteurskreis bilden, Anlaufstelle definieren, Teamrollen klären, Finanzierung sichern, Wirkung beobachten. Das Policy Paper sollte die strukturellen Hebel für Bund und Länder fokussieren: Regelfinanzierung für Koordination, sektorenübergreifende Zentren, Dateninfrastruktur, Delegationsrahmen und kommunale Gesundheitsplanung.
 
 
 
