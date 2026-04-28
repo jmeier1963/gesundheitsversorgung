@@ -2,26 +2,26 @@
 title: "Handlungsempfehlungen"
 ---
 
-## Zielgruppen
+## Fuer lokale Verantwortliche
 
-Die Empfehlungen werden fuer zwei Ebenen aufbereitet:
+| Empfehlung | Handlungsschritt | Praxisbezug |
+|---|---|---|
+| Versorgungslage gemeinsam sichtbar machen | Lokale Daten, Erfahrungswissen und Buerger*innenperspektiven in einem kurzen Bedarfsprofil buendeln. | Gleichwertigkeitsbericht-Logik, ASZ Templin. |
+| Eine erkennbare Anlaufstelle schaffen | Beratung, Terminorientierung, Praevention und Weiterleitung an einem Ort oder ueber ein Team organisieren. | Gesundheitskiosk Billstedt/Horn, Slaintecare Healthy Communities. |
+| Fachkraefte entlasten | Aufgaben an NAePA, VERAH, Pflege, Physician Assistants und Sozialberatung verteilen. | Gesundheitszentrum Buesum, Bertelsmann Spotlight 2026 zu Teamarbeit. |
+| Kooperation verbindlich machen | Kommune, KV, Krankenkassen, Praxen, Krankenhaus, Pflege und Zivilgesellschaft mit klaren Rollen an einen Tisch bringen. | ASZ Templin, Gesundes Kinzigtal. |
+| Vertrauen praktisch organisieren | Beschwerdewege, Rueckmeldeschleifen, einfache Sprache und feste Ansprechpartner*innen einbauen. | Social Prescribing, Gesundheitskioske, lokale Gesundheitsregionen. |
 
-- lokale Verantwortliche in Kommunen, Verwaltung, Gesundheitswesen und Zivilgesellschaft
-- Entscheidungstraeger*innen auf Bundes- und Landesebene
+## Fuer Landes- und Bundespolitik
 
-## Struktur der Empfehlungen
+| Empfehlung | Ansatzpunkt | Erwartete Wirkung |
+|---|---|---|
+| Koordination finanzierbar machen | Lotsen-, Case-Management- und Netzwerkfunktionen als regelhafte Leistung absichern. | Weniger Navigationslast fuer Patient*innen und stabilere Kooperation. |
+| Sektorenuebergreifende Zentren ermoeglichen | Krankenhausplanung, KV-Strukturen, kommunale Traegerschaft und Innovationsfonds-Erfahrungen verbinden. | Regionale Versorgung bleibt erhalten, auch wenn Einzelstrukturen wegbrechen. |
+| Kommunale Gesundheitsplanung staerken | Kommunen mit Daten, Foerderung und Moderationskompetenz ausstatten. | Lokale Bedarfe werden frueher erkannt und passgenauer bearbeitet. |
+| Teamversorgung rechtlich erleichtern | Delegation, digitale Unterstuetzung und interprofessionelle Rollen klarer regeln. | Knappe aerztliche Zeit wird auf Kernaufgaben konzentriert. |
+| Wirkung breiter messen | Neben Kosten und Inanspruchnahme auch Erreichbarkeit, Teilhabe, Gesundheitskompetenz und Vertrauen erfassen. | Gute Modelle werden nicht nur an kurzfristiger Einsparung bewertet. |
 
-Jede Empfehlung soll spaeter nach einem einheitlichen Muster dokumentiert werden:
+## Produktlogik
 
-| Baustein | Inhalt |
-|---|---|
-| Problem | Welche Versorgungsluecke oder Vertrauensfrage wird adressiert? |
-| Handlungsschritt | Was ist konkret zu tun? |
-| Zustaendigkeit | Wer kann den Schritt ausloesen oder verantworten? |
-| Ressourcen | Welche Daten, Finanzierung, Kooperationen oder Kompetenzen braucht es? |
-| Praxisbezug | Welche Katalogbeispiele stuetzen die Empfehlung? |
-| Risiken | Welche Huerden oder Nebenwirkungen sind zu beachten? |
-
-## Arbeitsfassungen
-
-Empfehlungen werden erst als Arbeitsfassungen dokumentiert und nach Workshop-Review fuer die oeffentliche Website freigegeben.
+Die Broschuere fuer lokale Akteure sollte als Umsetzungsleitfaden funktionieren: sechs Schritte, kurze Checklisten, Fallbeispiele und typische Stolpersteine. Das Policy Paper sollte drei Reformbotschaften zuspitzen: Koordination ist Infrastruktur, Primarversorgung braucht Teams und Gesundheitsversorgung ist Teil demokratischer Daseinsvorsorge. Die Abschlussstudie sollte die empirische Bruecke zwischen gesundheitlicher Ungleichheit, Versorgungserfahrung und institutionellem Vertrauen schlagen.

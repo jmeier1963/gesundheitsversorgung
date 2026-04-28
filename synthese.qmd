@@ -2,27 +2,47 @@
 title: "Synthese"
 ---
 
-## Arbeitsstand
+## Vorlaeufige Typologie
 
-Die Synthese verbindet die Ergebnisse aus Bedarfsphase, Bestandsphase und Begleitphase. Sie wird im Projektverlauf versioniert und jeweils nach fachlicher Review aktualisiert.
+Die recherchierten Ansaetze lassen sich in fuenf Typen buendeln. Die Typologie ist vorlaeufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europaeischen Vergleichsfaellen weiter geschaerft.
 
-## Bedarfsphase
+| Typ | Kernidee | Beispiele im Katalog | Potenzial |
+|---|---|---|---|
+| Integrierte regionale Versorgung | Ambulante, stationaere, pflegerische und praeventive Angebote werden regional koordiniert. | Gesundes Kinzigtal, ASZ Templin | Hohe Strukturwirkung, aber hoher Koordinations- und Finanzierungsbedarf. |
+| Kommunale oder regionale Gesundheitszentren | Versorgung wird an einem Ort gebuendelt und fuer Fachkraefte attraktiver organisiert. | Gesundheitszentrum Buesum, PORT-Zentren | Stark fuer laendliche Regionen mit Nachfolgeproblemen. |
+| Lebensweltnahe Lotsen- und Beratungsangebote | Menschen erhalten Orientierung, Praevention und soziale Unterstuetzung in ihrem Alltag. | Gesundheitskiosk Billstedt/Horn, Slaintecare Healthy Communities | Besonders relevant fuer benachteiligte Gruppen und Gesundheitskompetenz. |
+| Nachwuchs- und Teammodelle | Versorgung wird durch Ausbildungspfade, Delegation und neue Rollen robuster gemacht. | Landpartie 2.0, Teamarbeit gegen Aerztemangel | Wirkt mittel- bis langfristig gegen Fachkraeftemangel. |
+| Community- und Sozialverschreibung | Medizinische Versorgung wird mit Gruppen, Vereinen und lokalen Ressourcen verbunden. | NHS Social Prescribing | Niedrigschwellig, aber abhaengig von lokaler Infrastruktur und Evaluation. |
 
-Ziel ist ein belastbares Gesamtbild dazu, wann Gesundheitsversorgung als bedarfsgerecht, erreichbar und vertrauensstaerkend erlebt wird. Die Ergebnisse muenden in ein Kriterienmodell fuer die Bewertung von Praxisansaetzen.
+## Gelingensbedingungen
 
-## Bestandsphase
+- Lokale Problemdiagnose: Gute Modelle starten mit einer konkreten regionalen Bedarfsanalyse statt mit einer fertigen Blaupause.
+- Geteilte Verantwortung: Erfolgreiche Ansaetze verbinden Kommune, Leistungserbringer, Krankenkassen, Land/KV und Zivilgesellschaft.
+- Koordination als eigene Leistung: Lotsen-, Case-Management- und Netzwerkfunktionen muessen finanziert und personell verankert werden.
+- Interprofessionelle Teams: Delegation und Zusammenarbeit entlasten Aerzt*innen und machen Versorgung fuer Fachkraefte attraktiver.
+- Sichtbare Anlaufstellen: Vertrauen entsteht leichter, wenn Menschen wissen, wo sie hingehen koennen und wer fuer ihr Anliegen zustaendig ist.
+- Partizipation mit Rueckbindung: Beteiligung wirkt nur, wenn Rueckmeldungen erkennbar in Angebotsgestaltung und Prioritaeten einfliessen.
+- Verstetigung: Innovationsfonds- oder Modellmittel sollten frueh mit Regelfinanzierung, kommunaler Traegerschaft oder Landesprogrammen verbunden werden.
 
-Der Katalog macht vielversprechende Ansaetze vergleichbar. Die Synthese buendelt sie zu Typen, etwa mobile Versorgung, sektorenuebergreifende Zentren, kommunale Koordinationsmodelle, digitale/telemedizinische Angebote oder lebensweltnahe Beratung.
+## Typische Huerden
 
-## Begleitphase
-
-Zwei vertiefte Fallstudien untersuchen Umsetzung, Kooperation, Nutzung, Huerden und Skalierbarkeit. Daraus werden konkrete Handlungsschritte fuer lokale Verantwortliche sowie fuer Landes- und Bundespolitik abgeleitet.
-
-## Vorlaeufige Syntheselogik
-
-| Ebene | Synthesefrage | Erwartetes Produkt |
+| Huerde | Wirkung | Konsequenz fuer Handlungsempfehlungen |
 |---|---|---|
-| Bedarf | Welche Versorgung wird vor Ort als gerecht und verlaesslich erlebt? | Kriterienmodell |
-| Praxis | Welche Ansaetze adressieren diese Kriterien besonders gut? | Typologie und Katalog |
-| Rahmenbedingungen | Welche Governance-, Finanzierungs- und Kooperationsmuster tragen? | Gelingensbedingungen |
-| Transfer | Was koennen Kommunen, Laender und Bund konkret tun? | Handlungsempfehlungen |
+| Sektorengrenzen | Ambulante, stationaere, Pflege- und Sozialleistungen bleiben getrennt. | Gemeinsame regionale Steuerung und klare Finanzierungswege schaffen. |
+| Projektfoerderlogik | Gute Modelle enden oder schrumpfen nach Foerderende. | Verstetigungskonzept bereits im Design verlangen. |
+| Fachkraeftemangel | Einzelne Praxen bleiben trotz Foerderung unbesetzt. | Teammodelle, Delegation und attraktive Arbeitsbedingungen priorisieren. |
+| Datenluecken | Wirkungen auf Teilhabe und Vertrauen sind schwer messbar. | Routine-, Befragungs- und qualitative Daten kombinieren. |
+| Unklare Zustaendigkeit | Buerger*innen erleben Institutionen als abweisend oder unuebersichtlich. | Lotsenfunktion und verbindliche Koordinierungsstellen etablieren. |
+
+## Vertiefungsfaelle
+
+Fuer die Begleitphase eignen sich besonders Faelle, die unterschiedliche Strukturfragen abdecken:
+
+- ASZ Templin als Fall fuer sektorenuebergreifende Versorgung in einer laendlichen Region.
+- Gesundheitszentrum Buesum als Fall fuer kommunale Verantwortung und Attraktivitaet fuer Hausaerzt*innen.
+- Gesundheitskiosk Billstedt/Horn als Fall fuer lebensweltnahe Beratung in deprivierten Raeumen.
+- Gesundes Kinzigtal als Fall fuer populationsbezogene integrierte Versorgung und Langzeitevaluation.
+
+## Synthese fuer Produkte
+
+Die Broschuere sollte lokale Handlungsschritte entlang eines Praxispfads darstellen: Bedarf klaeren, Akteurskreis bilden, Anlaufstelle definieren, Teamrollen klaeren, Finanzierung sichern, Wirkung beobachten. Das Policy Paper sollte die strukturellen Hebel fuer Bund und Laender fokussieren: Regelfinanzierung fuer Koordination, sektorenuebergreifende Zentren, Dateninfrastruktur, Delegationsrahmen und kommunale Gesundheitsplanung.

@@ -4,7 +4,7 @@ title: "Methodik"
 
 ## Forschungsdesign
 
-Das Projekt kombiniert Literatur- und Dokumentenanalyse, Interviews, regionale Vertiefungen, Fokusgruppen, Workshops und eine strukturierte Bestandsaufnahme von Praxisansaetzen. Die Methodik ist so angelegt, dass Forschungsschritte nachvollziehbar dokumentiert und oeffentliche Daten getrennt von internem Arbeitsmaterial gehalten werden.
+Das Projekt kombiniert Literatur- und Dokumentenanalyse, Interviews, regionale Vertiefungen, Fokusgruppen, Workshops und eine strukturierte Bestandsaufnahme von Praxisansaetzen. Die Methodik trennt oeffentliche Recherche- und Katalogdaten strikt von internem Interview- und Fokusgruppenmaterial.
 
 ## Arbeitspakete
 
@@ -16,20 +16,25 @@ Das Projekt kombiniert Literatur- und Dokumentenanalyse, Interviews, regionale V
 | Vertiefung | Welche Rahmenbedingungen, Kooperationen und Prozesse tragen zum Erfolg bei? | Fallstudien und Handlungsschritte |
 | Synthese | Welche Empfehlungen ergeben sich fuer Praxis und Politik? | Broschuere, Policy Paper, Abschlussstudie |
 
-## Bewertungsmatrix
+## Kriterienmodell
 
-Praxisansaetze werden entlang einheitlicher Kriterien beschrieben und bewertet:
+Die Bedarfsanalyse uebersetzt Forschungsstand und Feldperspektiven in ein Kriterienmodell. Es beschreibt nicht nur, ob ein Angebot vorhanden ist, sondern ob es fuer Menschen als gerecht, erreichbar und vertrauenswuerdig funktioniert.
 
-- raeumliche Erreichbarkeit
-- partizipative Entwicklung
-- Kontinuitaet der Betreuung
-- Sicherstellung der Fachkraefteverfuegbarkeit
-- Lebensweltbezug
-- Kooperation und lokale Governance
-- Skalierbarkeit und Uebertragbarkeit
-- Beitrag zu Vertrauen und Teilhabe
+| Kriterium | Leitfrage | Indikatoren fuer die Analyse |
+|---|---|---|
+| Raeumliche Erreichbarkeit | Ist das Angebot ohne unverhaeltnismaessige Wege nutzbar? | Entfernung, OePNV, mobile Angebote, Hausbesuche, digitale Ergaenzung. |
+| Zeitliche Verlaesslichkeit | Ist Hilfe dann verfuegbar, wenn sie gebraucht wird? | Wartezeiten, Oeffnungszeiten, Akutpfade, Terminvermittlung. |
+| Kontinuitaet | Gibt es wiederkehrende Ansprechpartner*innen und stabile Uebergaenge? | Fallbegleitung, feste Teams, strukturierte Ueberweisungen, Rueckkopplung. |
+| Verstaendlichkeit | Koennen Menschen das System verstehen und navigieren? | Lotsenfunktion, einfache Sprache, mehrsprachige Beratung, Gesundheitskompetenz. |
+| Lebensweltbezug | Passt das Angebot zu Alltag, Einkommen, Mobilitaet und Sorgearbeit? | niedrigschwellige Orte, Quartiersnaehe, soziale Beratung, Praevention. |
+| Partizipation | Werden lokale Bedarfe sichtbar gemacht und ernst genommen? | Fokusgruppen, Beiraete, Co-Design, kommunale Beteiligung. |
+| Fachkraefte- und Teamrobustheit | Entlastet das Modell knappe Professionen und macht Arbeit attraktiver? | Delegation, interprofessionelle Teams, Nachwuchsfoerderung, Arbeitsmodelle. |
+| Governance und Finanzierung | Gibt es tragfaehige Verantwortung und Ressourcen? | Kommune, Land, KV, Krankenkassen, Traeger, Vertrag, Regelfinanzierung. |
+| Vertrauen und Teilhabe | Staerkt das Angebot die Erfahrung, dass Institutionen erreichbar und loesungsfaehig sind? | subjektive Zufriedenheit, Nutzung durch vulnerable Gruppen, Beschwerdewege, lokale Legitimation. |
 
-Die Bewertung nutzt eine dreistufige Skala: `niedrig`, `mittel`, `hoch`. Unklare Faelle werden als `zu pruefen` markiert und bleiben bis zur fachlichen Review ausserhalb finaler Synthesen.
+## Screening der Praxisansaetze
+
+Alle Ansaetze werden zuerst als Kandidaten erfasst und dann entlang der Kriterien bewertet. Die Bewertung nutzt `niedrig`, `mittel`, `hoch` und `zu pruefen`. Ein Ansatz wird fuer die Synthese priorisiert, wenn er mindestens drei Bedingungen erfuellt: klarer Bezug zu gesundheitlicher Ungleichheit, belastbare Quellenlage, regionale Uebertragbarkeit und sichtbare Kooperation ueber einzelne Organisationen hinaus.
 
 ## Datenschutz und Veroeffentlichung
 

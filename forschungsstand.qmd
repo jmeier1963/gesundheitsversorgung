@@ -2,25 +2,26 @@
 title: "Forschungsstand"
 ---
 
-## Leitfragen
+## Evidenzbasis
 
-- Wie haengen soziooekonomischer Status, Wohnort und Gesundheitschancen zusammen?
-- Welche Versorgungsdefizite werden in laendlichen und strukturschwachen Raeumen besonders sichtbar?
-- Wie beeinflussen Erfahrungen mit Daseinsvorsorge und Gesundheitsversorgung Vertrauen in Staat und Politik?
-- Welche Rolle spielen subjektive Wahrnehmungen gegenueber objektiven Versorgungsindikatoren?
+Die bisherige Recherche zeigt ein konsistentes Bild: Gesundheitliche Ungleichheit ist in Deutschland zugleich sozial und raeumlich gepraegt. Der RKI-Beitrag zur Lebenserwartungsluecke zeigt fuer 2020 bis 2022 eine Differenz von 4,3 Jahren bei Frauen und 7,2 Jahren bei Maennern zwischen Regionen mit niedrigster und hoechster soziooekonomischer Deprivation. Anfang der 2000er Jahre lag diese Luecke noch bei 2,6 beziehungsweise 5,7 Jahren. Damit verstaerkt sich regionale gesundheitliche Ungleichheit trotz insgesamt hoher Leistungsfaehigkeit des Gesundheitssystems. Quelle: [RKI Journal of Health Monitoring 1/2025](https://www.rki.de/DE/Aktuelles/Publikationen/Journal-of-Health-Monitoring/GBEDownloadsJ/Focus/JHealthMonit_2025_01_Lebenserwartungsluecke.html).
 
-## Ausgangspunkte
+Der [Gleichwertigkeitsbericht 2024](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2024/07/20240703-gleichwertigkeitsbericht.html) stellt Lebensverhaeltnisse auf Ebene der 400 Kreise und kreisfreien Staedte dar und verbindet objektive Indikatoren mit Einschaetzungen der Bevoelkerung. Fuer dieses Projekt ist besonders relevant, dass gleichwertige Lebensverhaeltnisse nicht nur durch formale Infrastruktur, sondern auch durch erlebte Erreichbarkeit, Qualitaet und Verlaesslichkeit entstehen.
 
-Die Projektbeschreibung verweist auf zentrale Befunde aus Gleichwertigkeitsbericht, Public Health Reporting, sozialepidemiologischer Forschung, Mitte-Studie und aktuellen Analysen zur hausaeztlichen Versorgung. Diese Seite dient als wachsender Review-Speicher fuer zitierfaehige Befunde und Hypothesen.
+Die hausaeztliche Versorgung wird zu einem Engpassfeld. Die Bertelsmann Stiftung beschreibt im [Spotlight Gesundheit 01/2025](https://www.bertelsmann-stiftung.de/de/spotlight-gesundheit-01/2024-1-1-1), dass ein Viertel der Hausaerztinnen und Hausaerzte innerhalb von fuenf Jahren aus dem Beruf ausscheiden will, verbleibende Aerzt*innen ihre Arbeitszeit reduzieren wollen und vor allem laendliche und strukturschwache Regionen betroffen sein werden. Gleichzeitig zeigen Kommunen bereits Aktivitaet, etwa durch MVZ, Nachwuchsfoerderung, kommunale Infrastruktur und neue Teammodelle.
 
-## Synthese-Template
+Der Demokratiebezug ergibt sich aus der Rolle von Daseinsvorsorge als Alltagserfahrung staatlicher Handlungsfaehigkeit. Die Mitte-Studie 2024/25 der Friedrich-Ebert-Stiftung thematisiert antidemokratische Einstellungen im Kontext gesellschaftlicher Verunsicherung und raeumlicher Transformation. Quelle: [FES Mitte-Studie 2024/25](https://www.fes.de/mitte-studie/news-seite). Internationale Evidenz stuetzt den Zusammenhang zwischen alltagsnahen Services und Vertrauen: Der [OECD Trust Survey 2024](https://www.oecd.org/en/publications/2024/07/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_eeb36452/full-report/trust-in-day-to-day-interactions-with-public-institutions_7d0e07b0.html) zeigt, dass Zufriedenheit mit Gesundheits- und Bildungsleistungen zu den wichtigen Alltagserfahrungen mit oeffentlichen Institutionen gehoert.
 
-| Thema | Kernaussage | Relevanz fuer das Projekt | Quellenstatus |
-|---|---|---|---|
-| Gesundheitliche Ungleichheit | Menschen in Armutslagen sind haeufiger krank und haben geringere Lebenserwartung. | Begruendet Fokus auf Teilhabe und sozial benachteiligte Raeume. | zu pruefen |
-| Raum und Versorgung | Erreichbarkeit, Angebotsdichte und Kontinuitaet unterscheiden sich regional. | Liefert Kriterien fuer Bedarfsgerechtigkeit. | zu pruefen |
-| Vertrauen und Daseinsvorsorge | Erfahrungen mit oeffentlichen Leistungen praegen institutionelles Vertrauen. | Verbindet Gesundheitsversorgung und Demokratieperspektive. | zu pruefen |
+## Hypothesen fuer das Projekt
 
-## Naechste Arbeitsschritte
+| Hypothese | Begruendung | Beobachtbare Hinweise |
+|---|---|---|
+| Versorgungsluecken wirken demokratiepolitisch, wenn sie als wiederholte Erfahrung institutioneller Nicht-Zustaendigkeit erlebt werden. | Gesundheitssystem und Kommune sind fuer viele Menschen konkrete Kontaktpunkte mit Staatlichkeit. | Berichte ueber lange Wege, fehlende Ansprechbarkeit, komplizierte Navigation, ausbleibende Hilfe. |
+| Nicht nur Angebotsdichte, sondern Verlaesslichkeit und Lotsenfunktion praegen Vertrauen. | Menschen bewerten Versorgung entlang von Erreichbarkeit, Kontinuitaet, Verstaendlichkeit und Anschlussfaehigkeit. | Wiederkehrende Ansprechpartner*innen, koordinierte Uebergaben, Fallbegleitung, klare Zustaendigkeit. |
+| Lebensweltnahe Angebote koennen Barrieren senken, wenn sie medizinische, soziale und praeventive Unterstuetzung verbinden. | Viele Ursachen gesundheitlicher Ungleichheit liegen ausserhalb kurativer Versorgung. | Gesundheitskioske, Social Prescribing, kommunale Praeventionsketten, Beratungs- und Koordinierungsstellen. |
+| Team- und Netzwerkmodelle sind robuster als reine Aerzt*innengewinnung. | Fachkraeftemangel laesst sich nicht allein durch Nachbesetzung einzelner Praxen loesen. | Delegation an VERAH/NAePA/PA, MVZ, integrierte Zentren, digitale Unterstuetzung, regionale Netzwerke. |
+| Partizipation erhoeht Legitimitat und Passung, ersetzt aber keine belastbare Finanzierung. | Beteiligung kann Bedarfe sichtbar machen; Verstetigung braucht Rechts- und Finanzierungswege. | Lokale Workshops, Beiraete, kommunale Co-Finanzierung, Krankenkassen-/Landesprogramme. |
 
-Die Literatur wird im Rechercheprotokoll mit Suchstrategie, Einschlusskriterien und Review-Status dokumentiert. Zitierfaehige Eintraege werden spaeter in eine Bibliographie oder Quellenliste ueberfuehrt.
+## Forschungsbedarf
+
+Die naechste Recherchephase sollte drei Luecken schliessen: Erstens braucht es mehr empirische Evidenz zur subjektiven Wahrnehmung von Versorgung in laendlichen und strukturschwachen Raeumen. Zweitens sollten Praxisansaetze nicht nur als Einzelprojekte, sondern als Governance-Modelle verglichen werden. Drittens muss die Verbindung zwischen Gesundheitsversorgung, Teilhabe und demokratischem Vertrauen in Interviews und Fokusgruppen explizit abgefragt werden.
