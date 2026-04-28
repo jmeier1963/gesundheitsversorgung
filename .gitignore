@@ -1,0 +1,12 @@
+/.quarto/
+/_site/
+/.Rproj.user/
+/.vscode/
+
+# Keep sensitive working material out of the public repository/site.
+/data/internal/*
+!/data/internal/README.md
+
+# Local operating-system files
+Thumbs.db
+.DS_Store

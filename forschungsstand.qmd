@@ -1,0 +1,26 @@
+---
+title: "Forschungsstand"
+---
+
+## Leitfragen
+
+- Wie haengen soziooekonomischer Status, Wohnort und Gesundheitschancen zusammen?
+- Welche Versorgungsdefizite werden in laendlichen und strukturschwachen Raeumen besonders sichtbar?
+- Wie beeinflussen Erfahrungen mit Daseinsvorsorge und Gesundheitsversorgung Vertrauen in Staat und Politik?
+- Welche Rolle spielen subjektive Wahrnehmungen gegenueber objektiven Versorgungsindikatoren?
+
+## Ausgangspunkte
+
+Die Projektbeschreibung verweist auf zentrale Befunde aus Gleichwertigkeitsbericht, Public Health Reporting, sozialepidemiologischer Forschung, Mitte-Studie und aktuellen Analysen zur hausaeztlichen Versorgung. Diese Seite dient als wachsender Review-Speicher fuer zitierfaehige Befunde und Hypothesen.
+
+## Synthese-Template
+
+| Thema | Kernaussage | Relevanz fuer das Projekt | Quellenstatus |
+|---|---|---|---|
+| Gesundheitliche Ungleichheit | Menschen in Armutslagen sind haeufiger krank und haben geringere Lebenserwartung. | Begruendet Fokus auf Teilhabe und sozial benachteiligte Raeume. | zu pruefen |
+| Raum und Versorgung | Erreichbarkeit, Angebotsdichte und Kontinuitaet unterscheiden sich regional. | Liefert Kriterien fuer Bedarfsgerechtigkeit. | zu pruefen |
+| Vertrauen und Daseinsvorsorge | Erfahrungen mit oeffentlichen Leistungen praegen institutionelles Vertrauen. | Verbindet Gesundheitsversorgung und Demokratieperspektive. | zu pruefen |
+
+## Naechste Arbeitsschritte
+
+Die Literatur wird im Rechercheprotokoll mit Suchstrategie, Einschlusskriterien und Review-Status dokumentiert. Zitierfaehige Eintraege werden spaeter in eine Bibliographie oder Quellenliste ueberfuehrt.

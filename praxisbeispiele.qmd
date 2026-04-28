@@ -1,0 +1,132 @@
+---
+title: "Praxisbeispiele"
+page-layout: full
+---
+
+Diese Seite zeigt die oeffentlich freigegebenen Praxisansaetze aus `data/public/approaches.csv`. Der Datensatz beginnt mit Beispielzeilen fuer die Struktur und wird im Projektverlauf durch recherchierte und gepruefte Ansaetze ersetzt oder erweitert.
+
+::: {.catalog-controls}
+<label>Region oder Land<br><select id="filter-location"><option value="">Alle</option></select></label>
+<label>Massnahmentyp<br><select id="filter-type"><option value="">Alle</option></select></label>
+<label>Zielgruppe<br><select id="filter-target"><option value="">Alle</option></select></label>
+<label>Versorgungsthema<br><select id="filter-topic"><option value="">Alle</option></select></label>
+<label>Kriterienbewertung<br><select id="filter-score"><option value="">Alle</option></select></label>
+<button id="reset-filters" type="button">Filter zuruecksetzen</button>
+:::
+
+<p id="catalog-count" class="catalog-count"></p>
+<div id="catalog" class="catalog-grid" aria-live="polite"></div>
+
+```{=html}
+<script>
+const csvUrl = "data/public/approaches.csv";
+const columns = {
+  location: "bundesland_land",
+  type: "massnahmentyp",
+  target: "zielgruppe",
+  topic: "versorgungsthema",
+  score: "kriterienbewertung"
+};
+
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let value = "";
+  let quoted = false;
+  for (let i = 0; i < text.length; i += 1) {
+    const char = text[i];
+    const next = text[i + 1];
+    if (char === '"' && quoted && next === '"') {
+      value += '"';
+      i += 1;
+    } else if (char === '"') {
+      quoted = !quoted;
+    } else if (char === "," && !quoted) {
+      row.push(value);
+      value = "";
+    } else if ((char === "\n" || char === "\r") && !quoted) {
+      if (char === "\r" && next === "\n") i += 1;
+      row.push(value);
+      if (row.some((cell) => cell.trim() !== "")) rows.push(row);
+      row = [];
+      value = "";
+    } else {
+      value += char;
+    }
+  }
+  row.push(value);
+  if (row.some((cell) => cell.trim() !== "")) rows.push(row);
+  const headers = rows.shift();
+  return rows.map((cells) => Object.fromEntries(headers.map((header, index) => [header, cells[index] || ""])));
+}
+
+function uniqueValues(data, key) {
+  return [...new Set(data.map((row) => row[key]).filter(Boolean))].sort((a, b) => a.localeCompare(b, "de"));
+}
+
+function fillSelect(id, values) {
+  const select = document.getElementById(id);
+  values.forEach((value) => {
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = value;
+    select.appendChild(option);
+  });
+}
+
+function card(row) {
+  const article = document.createElement("article");
+  article.className = "catalog-card";
+  const link = row.links ? `<a href="${row.links}" rel="noopener" target="_blank">Quelle</a>` : "";
+  article.innerHTML = `
+    <div class="catalog-meta">${row.bundesland_land} · ${row.raumtyp} · ${row.umsetzungsstand}</div>
+    <h2>${row.name}</h2>
+    <p>${row.kurzbeschreibung}</p>
+    <dl>
+      <dt>Ort/Region</dt><dd>${row.ort_region}</dd>
+      <dt>Zielgruppe</dt><dd>${row.zielgruppe}</dd>
+      <dt>Thema</dt><dd>${row.versorgungsthema}</dd>
+      <dt>Typ</dt><dd>${row.massnahmentyp}</dd>
+      <dt>Akteure</dt><dd>${row.traeger_akteure}</dd>
+      <dt>Bewertung</dt><dd>${row.kriterienbewertung}</dd>
+    </dl>
+    <div class="catalog-source">${row.evidenz_quellenlage}${link ? " · " + link : ""}</div>
+  `;
+  return article;
+}
+
+function applyFilters(data) {
+  const selected = Object.fromEntries(Object.entries(columns).map(([id, key]) => [key, document.getElementById(`filter-${id}`).value]));
+  return data.filter((row) => Object.entries(selected).every(([key, value]) => !value || row[key] === value));
+}
+
+function render(data) {
+  const filtered = applyFilters(data);
+  const catalog = document.getElementById("catalog");
+  catalog.replaceChildren(...filtered.map(card));
+  document.getElementById("catalog-count").textContent = `${filtered.length} von ${data.length} Eintraegen`;
+}
+
+fetch(csvUrl)
+  .then((response) => response.text())
+  .then((text) => {
+    const data = parseCsv(text).filter((row) => row.veroeffentlichungsstatus === "public");
+    fillSelect("filter-location", uniqueValues(data, columns.location));
+    fillSelect("filter-type", uniqueValues(data, columns.type));
+    fillSelect("filter-target", uniqueValues(data, columns.target));
+    fillSelect("filter-topic", uniqueValues(data, columns.topic));
+    fillSelect("filter-score", uniqueValues(data, columns.score));
+    document.querySelectorAll(".catalog-controls select").forEach((select) => {
+      select.addEventListener("change", () => render(data));
+    });
+    document.getElementById("reset-filters").addEventListener("click", () => {
+      document.querySelectorAll(".catalog-controls select").forEach((select) => { select.value = ""; });
+      render(data);
+    });
+    render(data);
+  })
+  .catch(() => {
+    document.getElementById("catalog-count").textContent = "Der Katalog konnte nicht geladen werden.";
+  });
+</script>
+```

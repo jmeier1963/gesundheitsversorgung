@@ -1,0 +1,38 @@
+---
+title: "Methodik"
+---
+
+## Forschungsdesign
+
+Das Projekt kombiniert Literatur- und Dokumentenanalyse, Interviews, regionale Vertiefungen, Fokusgruppen, Workshops und eine strukturierte Bestandsaufnahme von Praxisansaetzen. Die Methodik ist so angelegt, dass Forschungsschritte nachvollziehbar dokumentiert und oeffentliche Daten getrennt von internem Arbeitsmaterial gehalten werden.
+
+## Arbeitspakete
+
+| Arbeitspaket | Kernfrage | Geplantes Ergebnis |
+|---|---|---|
+| Forschungsstand | Was ist ueber gesundheitliche Ungleichheit, Versorgungsluecken und demokratisches Vertrauen bekannt? | Evidenzbasis und Hypothesen |
+| Bedarfsanalyse | Wann wird Versorgung als gerecht, ausreichend und vertrauensstaerkend erlebt? | Kriterienmodell |
+| Bestandsaufnahme | Welche lokalen und europaeischen Ansaetze sind vielversprechend? | Katalog und Typologie |
+| Vertiefung | Welche Rahmenbedingungen, Kooperationen und Prozesse tragen zum Erfolg bei? | Fallstudien und Handlungsschritte |
+| Synthese | Welche Empfehlungen ergeben sich fuer Praxis und Politik? | Broschuere, Policy Paper, Abschlussstudie |
+
+## Bewertungsmatrix
+
+Praxisansaetze werden entlang einheitlicher Kriterien beschrieben und bewertet:
+
+- raeumliche Erreichbarkeit
+- partizipative Entwicklung
+- Kontinuitaet der Betreuung
+- Sicherstellung der Fachkraefteverfuegbarkeit
+- Lebensweltbezug
+- Kooperation und lokale Governance
+- Skalierbarkeit und Uebertragbarkeit
+- Beitrag zu Vertrauen und Teilhabe
+
+Die Bewertung nutzt eine dreistufige Skala: `niedrig`, `mittel`, `hoch`. Unklare Faelle werden als `zu pruefen` markiert und bleiben bis zur fachlichen Review ausserhalb finaler Synthesen.
+
+## Datenschutz und Veroeffentlichung
+
+Oeffentlich werden nur gepruefte, nicht-personenbezogene Katalog- und Synthesedaten. Interviewnotizen, Fokusgruppenmaterial, Kontaktdaten, interne Bewertungen und nicht freigegebene Arbeitsstaende werden in `data/internal/` abgelegt und nicht auf GitHub Pages ausgespielt.
+
+Das Rechercheprotokoll liegt unter [`research/rechercheprotokoll.md`](research/rechercheprotokoll.md).

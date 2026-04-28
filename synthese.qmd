@@ -1,0 +1,28 @@
+---
+title: "Synthese"
+---
+
+## Arbeitsstand
+
+Die Synthese verbindet die Ergebnisse aus Bedarfsphase, Bestandsphase und Begleitphase. Sie wird im Projektverlauf versioniert und jeweils nach fachlicher Review aktualisiert.
+
+## Bedarfsphase
+
+Ziel ist ein belastbares Gesamtbild dazu, wann Gesundheitsversorgung als bedarfsgerecht, erreichbar und vertrauensstaerkend erlebt wird. Die Ergebnisse muenden in ein Kriterienmodell fuer die Bewertung von Praxisansaetzen.
+
+## Bestandsphase
+
+Der Katalog macht vielversprechende Ansaetze vergleichbar. Die Synthese buendelt sie zu Typen, etwa mobile Versorgung, sektorenuebergreifende Zentren, kommunale Koordinationsmodelle, digitale/telemedizinische Angebote oder lebensweltnahe Beratung.
+
+## Begleitphase
+
+Zwei vertiefte Fallstudien untersuchen Umsetzung, Kooperation, Nutzung, Huerden und Skalierbarkeit. Daraus werden konkrete Handlungsschritte fuer lokale Verantwortliche sowie fuer Landes- und Bundespolitik abgeleitet.
+
+## Vorlaeufige Syntheselogik
+
+| Ebene | Synthesefrage | Erwartetes Produkt |
+|---|---|---|
+| Bedarf | Welche Versorgung wird vor Ort als gerecht und verlaesslich erlebt? | Kriterienmodell |
+| Praxis | Welche Ansaetze adressieren diese Kriterien besonders gut? | Typologie und Katalog |
+| Rahmenbedingungen | Welche Governance-, Finanzierungs- und Kooperationsmuster tragen? | Gelingensbedingungen |
+| Transfer | Was koennen Kommunen, Laender und Bund konkret tun? | Handlungsempfehlungen |

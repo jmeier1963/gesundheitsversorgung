@@ -1,0 +1,19 @@
+---
+title: "Downloads"
+---
+
+## Daten
+
+- [Oeffentlicher Katalog als CSV](data/public/approaches.csv)
+- [Codebook fuer den oeffentlichen Katalog](data/public/codebook.md)
+- [Rechercheprotokoll](research/rechercheprotokoll.md)
+
+## Publikationen
+
+Publikationen werden hier ergaenzt, sobald sie freigegeben sind:
+
+| Publikation | Zielgruppe | Status |
+|---|---|---|
+| Abschlussstudie | Fachoeffentlichkeit, Politik, Verwaltung | geplant fuer Q3/Q4 2027 |
+| Broschuere mit Handlungsschritten | lokale Verantwortliche | geplant fuer Q3/Q4 2027 |
+| Policy Paper und Fact Sheets | Bundes- und Landesebene | geplant fuer Q3/Q4 2027 |

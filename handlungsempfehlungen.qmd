@@ -1,0 +1,27 @@
+---
+title: "Handlungsempfehlungen"
+---
+
+## Zielgruppen
+
+Die Empfehlungen werden fuer zwei Ebenen aufbereitet:
+
+- lokale Verantwortliche in Kommunen, Verwaltung, Gesundheitswesen und Zivilgesellschaft
+- Entscheidungstraeger*innen auf Bundes- und Landesebene
+
+## Struktur der Empfehlungen
+
+Jede Empfehlung soll spaeter nach einem einheitlichen Muster dokumentiert werden:
+
+| Baustein | Inhalt |
+|---|---|
+| Problem | Welche Versorgungsluecke oder Vertrauensfrage wird adressiert? |
+| Handlungsschritt | Was ist konkret zu tun? |
+| Zustaendigkeit | Wer kann den Schritt ausloesen oder verantworten? |
+| Ressourcen | Welche Daten, Finanzierung, Kooperationen oder Kompetenzen braucht es? |
+| Praxisbezug | Welche Katalogbeispiele stuetzen die Empfehlung? |
+| Risiken | Welche Huerden oder Nebenwirkungen sind zu beachten? |
+
+## Arbeitsfassungen
+
+Empfehlungen werden erst als Arbeitsfassungen dokumentiert und nach Workshop-Review fuer die oeffentliche Website freigegeben.

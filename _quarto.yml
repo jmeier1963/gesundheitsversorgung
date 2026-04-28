@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - data/public/**
+    - downloads/**
+
+website:
+  title: "Gesundes Vertrauen"
+  description: "Wie gute gesundheitliche Versorgung vor Ort die Demokratie staerken kann"
+  site-url: "https://jmeier1963.github.io/gesundheitsversorgung/"
+  repo-url: "https://github.com/jmeier1963/gesundheitsversorgung"
+  navbar:
+    title: "Gesundes Vertrauen"
+    left:
+      - href: index.qmd
+        text: Start
+      - href: methodik.qmd
+        text: Methodik
+      - href: forschungsstand.qmd
+        text: Forschungsstand
+      - href: praxisbeispiele.qmd
+        text: Praxisbeispiele
+      - href: synthese.qmd
+        text: Synthese
+      - href: handlungsempfehlungen.qmd
+        text: Handlungsempfehlungen
+      - href: downloads.qmd
+        text: Downloads
+      - href: quellen.qmd
+        text: Quellen
+  page-footer:
+    left: "Gesundes Vertrauen"
+    right: "Research repository und GitHub-Pages-Website"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: assets/styles.css
+    toc: true
+    toc-depth: 3
+    lang: de
+    date-format: "DD.MM.YYYY"
+
+execute:
+  freeze: auto

@@ -1,0 +1,25 @@
+---
+title: "Quellen"
+---
+
+## Startbestand
+
+Die folgenden Quellen sind aus der Projektbeschreibung uebernommen und werden im weiteren Verlauf bibliographisch bereinigt:
+
+- Bundesministerium fuer Wirtschaft und Klimaschutz (2024): Gleichwertigkeitsbericht 2024.
+- Robert Koch-Institut (2025): Public Health Reporting Germany 2025; Journal of Health Monitoring 1/2025.
+- Lampert, T. und Hoebel, J. (2023): Soziale Ungleichheit und Gesundheit.
+- Neu, C., Eden, M. und Kuepper, B. (2025): Raum, Daseinsvorsorge und Demokratie.
+- Forsa (2023): Umfrage zu Abschluss der Initiative Neustart.
+- Bertelsmann Stiftung (2025): Hausarztliche Versorgung der Zukunft, Spotlight Gesundheit Nr. 1.
+
+## Quellenarbeit
+
+Jede Quelle erhaelt im Rechercheprozess einen Status:
+
+- `gefunden`
+- `geprueft`
+- `zitiert`
+- `archiviert`
+
+Nur gepruefte und zitierfaehige Quellen werden in finalen Publikationen verwendet.
