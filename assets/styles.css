@@ -23,20 +23,6 @@ body {
   gap: .45rem;
 }
 
-.navbar-brand > img {
-  display: none;
-}
-
-.navbar-brand::before {
-  content: "";
-  display: inline-block;
-  width: 32px;
-  height: 32px;
-  flex: 0 0 32px;
-  border-radius: 8px;
-  background: url("logo.svg") center / contain no-repeat;
-}
-
 .hero-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

@@ -17,7 +17,7 @@ Die Recherche priorisiert Ansätze mit klarer Quellenlage und erkennbarem Transf
 
 ## Vorläufige Befunde
 
-- Tragfaehige Praxisbeispiele organisieren Koordination als eigene Funktion. Sie verlassen sich nicht darauf, dass einzelne Praxen oder Kliniken Kooperation nebenbei leisten.
+- Tragfähige Praxisbeispiele organisieren Koordination als eigene Funktion. Sie verlassen sich nicht darauf, dass einzelne Praxen oder Kliniken Kooperation nebenbei leisten.
 - Modelle mit hoher Übertragbarkeit kombinieren medizinische Versorgung mit Beratung, Prävention, sozialer Unterstützung oder Fallbegleitung.
 - In ländlichen Räumen wirken Zentren und Netze vor allem dann, wenn sie Fachkräfte entlasten und attraktive Arbeitsmodelle schaffen.
 - In benachteiligten urbanen Quartieren sind niedrigschwellige Anlaufstellen, Mehrsprachigkeit und Sozialberatung zentrale Zugangsfaktoren.

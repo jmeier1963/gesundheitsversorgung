@@ -8,7 +8,7 @@ Das Rechercheprotokoll dokumentiert Suchstrategie, Screening und Review für Lit
 
 - wissenschaftliche Datenbanken und Fachzeitschriften
 - Bundes-, Landes- und kommunale Programme
-- Krankenkassen, Verbaende, Stiftungen und zivilgesellschaftliche Organisationen
+- Krankenkassen, Verbände, Stiftungen und zivilgesellschaftliche Organisationen
 - Projektwebsites, Evaluationsberichte und graue Literatur
 - europäische Strategien und Programme zur Verringerung gesundheitlicher Ungleichheit
 

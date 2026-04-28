@@ -24,7 +24,7 @@ Die Bedarfsanalyse übersetzt Forschungsstand und Feldperspektiven in ein Kriter
 |---|---|---|
 | Räumliche Erreichbarkeit | Ist das Angebot ohne unverhältnismäßige Wege nutzbar? | Entfernung, ÖPNV, mobile Angebote, Hausbesuche, digitale Ergänzung. |
 | Zeitliche Verlässlichkeit | Ist Hilfe dann verfügbar, wenn sie gebraucht wird? | Wartezeiten, Öffnungszeiten, Akutpfade, Terminvermittlung. |
-| Kontinuität | Gibt es wiederkehrende Ansprechpartner*innen und stabile Übergaenge? | Fallbegleitung, feste Teams, strukturierte Überweisungen, Rückkopplung. |
+| Kontinuität | Gibt es wiederkehrende Ansprechpartner*innen und stabile Übergänge? | Fallbegleitung, feste Teams, strukturierte Überweisungen, Rückkopplung. |
 | Verständlichkeit | Können Menschen das System verstehen und navigieren? | Lotsenfunktion, einfache Sprache, mehrsprachige Beratung, Gesundheitskompetenz. |
 | Lebensweltbezug | Passt das Angebot zu Alltag, Einkommen, Mobilität und Sorgearbeit? | niedrigschwellige Orte, Quartiersnähe, soziale Beratung, Prävention. |
 | Partizipation | Werden lokale Bedarfe sichtbar gemacht und ernst genommen? | Fokusgruppen, Beiräte, Co-Design, kommunale Beteiligung. |

@@ -4,7 +4,7 @@ title: "Quellen"
 
 ## Geprüfte Startquellen
 
-- Robert Koch-Institut (2025): [Die Lebenserwartungslücke: Soziooekonomische Unterschiede in der Lebenserwartung zwischen Deutschlands Regionen](https://www.rki.de/DE/Aktuelles/Publikationen/Journal-of-Health-Monitoring/GBEDownloadsJ/Focus/JHealthMonit_2025_01_Lebenserwartungsluecke.html).
+- Robert Koch-Institut (2025): [Die Lebenserwartungslücke: Sozioökonomische Unterschiede in der Lebenserwartung zwischen Deutschlands Regionen](https://www.rki.de/DE/Aktuelles/Publikationen/Journal-of-Health-Monitoring/GBEDownloadsJ/Focus/JHealthMonit_2025_01_Lebenserwartungsluecke.html).
 - Bundesministerium für Wirtschaft und Klimaschutz / BMI (2024): [Gleichwertigkeitsbericht 2024](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2024/07/20240703-gleichwertigkeitsbericht.html).
 - Friedrich-Ebert-Stiftung (2025): [Mitte-Studie 2024/25 - Die angespannte Mitte](https://www.fes.de/mitte-studie/news-seite).
 - Bertelsmann Stiftung (2025): [Spotlight Gesundheit 01/2025 - Hausärztliche Versorgung der Zukunft](https://www.bertelsmann-stiftung.de/de/spotlight-gesundheit-01/2024-1-1-1).
@@ -43,14 +43,14 @@ title: "Quellen"
 
 ## Quellenarbeit
 
-Jede Quelle erhaelt im Rechercheprozess einen Status:
+Jede Quelle erhält im Rechercheprozess einen Status:
 
 - `gefunden`
 - `geprüft`
 - `zitiert`
 - `archiviert`
 
-Nur geprüfte und zitierfaehige Quellen werden in finalen Publikationen verwendet. Für Fallstudien werden zusaetzlich lokale Dokumente, Evaluationsberichte und Interviews herangezogen.
+Nur geprüfte und zitierfähige Quellen werden in finalen Publikationen verwendet. Für Fallstudien werden zusätzlich lokale Dokumente, Evaluationsberichte und Interviews herangezogen.
 
 
 
