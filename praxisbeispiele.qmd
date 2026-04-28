@@ -9,6 +9,7 @@ Die Beispiele sind noch keine abschliessende Empfehlungsliste. Sie bilden einen 
 
 ## Einstieg ueber die Karte
 
+```{=html}
 <div class="map-shell">
   <div id="practice-map" class="practice-map" aria-label="Landkarte der Praxisbeispiele">
     <svg viewBox="0 0 1000 620" role="presentation" aria-hidden="true">
@@ -23,8 +24,11 @@ Die Beispiele sind noch keine abschliessende Empfehlungsliste. Sie bilden einen 
   </div>
   <div id="map-list" class="map-list" aria-label="Praxisbeispiele auf der Karte"></div>
 </div>
+```
 
 ## Katalog
+
+<p id="catalog-total" class="catalog-total">Praxisbeispiele werden geladen.</p>
 
 ::: {.catalog-controls}
 <label>Region oder Land<br><select id="filter-location"><option value="">Alle</option></select></label>
@@ -147,6 +151,7 @@ function focusExample(id) {
 function renderMap(data) {
   const markerLayer = document.getElementById("map-markers");
   const list = document.getElementById("map-list");
+  if (!markerLayer || !list) return;
   markerLayer.replaceChildren();
   list.replaceChildren();
 
@@ -182,11 +187,15 @@ function render(data) {
   const catalog = document.getElementById("catalog");
   catalog.replaceChildren(...filtered.map(card));
   renderMap(filtered);
-  document.getElementById("catalog-count").textContent = `${filtered.length} von ${data.length} Eintraegen`;
+  document.getElementById("catalog-total").textContent = `${data.length} Praxisbeispiele im Katalog`;
+  document.getElementById("catalog-count").textContent = `${filtered.length} von ${data.length} Eintraegen angezeigt`;
 }
 
 fetch(csvUrl)
-  .then((response) => response.text())
+  .then((response) => {
+    if (!response.ok) throw new Error(`CSV konnte nicht geladen werden: ${response.status}`);
+    return response.text();
+  })
   .then((text) => {
     const data = parseCsv(text).filter((row) => row.veroeffentlichungsstatus === "public");
     fillSelect("filter-location", uniqueValues(data, columns.location));
@@ -204,6 +213,7 @@ fetch(csvUrl)
     render(data);
   })
   .catch(() => {
+    document.getElementById("catalog-total").textContent = "Katalogdaten konnten nicht geladen werden.";
     document.getElementById("catalog-count").textContent = "Der Katalog konnte nicht geladen werden.";
   });
 </script>

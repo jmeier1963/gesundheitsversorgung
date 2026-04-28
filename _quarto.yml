@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: _site
   resources:
+    - assets/**
     - data/public/**
     - downloads/**
 
@@ -10,8 +11,10 @@ website:
   description: "Wie gute gesundheitliche Versorgung vor Ort die Demokratie staerken kann"
   site-url: "https://jmeier1963.github.io/gesundheitsversorgung/"
   repo-url: "https://github.com/jmeier1963/gesundheitsversorgung"
+  favicon: assets/logo.svg
   navbar:
     logo: assets/logo.svg
+    logo-alt: "Gesundes Vertrauen"
     title: "Gesundes Vertrauen"
     left:
       - href: methodik.qmd
@@ -31,8 +34,7 @@ format:
     theme:
       light: cosmo
     css: assets/styles.css
-    toc: true
-    toc-depth: 3
+    toc: false
     lang: de
     date-format: "DD.MM.YYYY"
 

@@ -11,6 +11,18 @@ body {
   color: var(--gv-ink);
 }
 
+.navbar-brand img,
+.navbar-logo {
+  width: 32px;
+  height: 32px;
+  max-height: 32px;
+  object-fit: contain;
+}
+
+.navbar-brand {
+  gap: .45rem;
+}
+
 .hero-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -59,6 +71,19 @@ body {
   border-color: var(--gv-accent);
   color: white;
   cursor: pointer;
+}
+
+.catalog-total {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.4rem;
+  border: 1px solid rgba(35, 97, 91, .18);
+  border-radius: 8px;
+  background: rgba(35, 97, 91, .08);
+  color: var(--gv-accent);
+  font-weight: 700;
+  padding: .45rem .75rem;
+  margin: .25rem 0 .75rem;
 }
 
 .map-shell {
@@ -124,6 +149,8 @@ body {
   cursor: pointer;
   padding: .75rem;
   text-align: left;
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 .map-list button span {
@@ -147,13 +174,20 @@ body {
 
 .catalog-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr));
   gap: 1rem;
+}
+
+.catalog-card {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 
 .catalog-card h2 {
   margin: .25rem 0 .5rem;
   font-size: 1.25rem;
+  overflow-wrap: anywhere;
 }
 
 .catalog-meta,
@@ -164,7 +198,7 @@ body {
 
 .catalog-card dl {
   display: grid;
-  grid-template-columns: minmax(7rem, 38%) 1fr;
+  grid-template-columns: minmax(6.5rem, 34%) minmax(0, 1fr);
   gap: .35rem .7rem;
   margin: 1rem 0;
 }
@@ -176,15 +210,13 @@ body {
 
 .catalog-card dd {
   margin: 0;
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 .catalog-card.is-highlighted {
   border-color: var(--gv-accent);
   box-shadow: 0 0 0 3px rgba(35, 97, 91, .14);
-}
-
-.navbar-logo {
-  max-height: 32px;
 }
 
 @media (max-width: 760px) {
