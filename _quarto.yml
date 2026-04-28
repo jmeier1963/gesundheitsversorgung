@@ -10,8 +10,8 @@ website:
   description: "Wie gute gesundheitliche Versorgung vor Ort die Demokratie staerken kann"
   site-url: "https://jmeier1963.github.io/gesundheitsversorgung/"
   repo-url: "https://github.com/jmeier1963/gesundheitsversorgung"
-  logo: assets/logo.svg
   navbar:
+    logo: assets/logo.svg
     title: "Gesundes Vertrauen"
     left:
       - href: methodik.qmd
