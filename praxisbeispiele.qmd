@@ -10,11 +10,10 @@ Die Beispiele sind noch keine abschließende Empfehlungsliste. Sie bilden einen 
 ## Einstieg über die Karte
 
 ```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <div class="map-shell">
-  <div id="practice-map" class="practice-map" aria-label="Landkarte der Praxisbeispiele">
-    <img class="map-background" src="assets/europe-country-map.svg" alt="" aria-hidden="true">
-    <div id="map-markers" class="map-markers"></div>
-  </div>
+  <div id="practice-map" class="practice-map" aria-label="Interaktive OpenStreetMap-Karte der Praxisbeispiele"></div>
   <div id="map-list" class="map-list" aria-label="Praxisbeispiele auf der Karte"></div>
 </div>
 ```
@@ -92,21 +91,6 @@ function fillSelect(id, values) {
   });
 }
 
-function projectPoint(row) {
-  const longitude = Number.parseFloat(row.longitude);
-  const latitude = Number.parseFloat(row.latitude);
-  const minLon = -12;
-  const maxLon = 31;
-  const minLat = 35;
-  const maxLat = 61;
-  const x = ((longitude - minLon) / (maxLon - minLon)) * 100;
-  const y = (1 - ((latitude - minLat) / (maxLat - minLat))) * 100;
-  return {
-    x: Math.min(96, Math.max(4, x)),
-    y: Math.min(94, Math.max(6, y))
-  };
-}
-
 function card(row) {
   const article = document.createElement("article");
   article.className = "catalog-card";
@@ -130,36 +114,75 @@ function card(row) {
   return article;
 }
 
+let practiceMap;
+let markerGroup;
+let markersById = {};
+
+function initMap() {
+  if (practiceMap || typeof L === "undefined") return;
+  practiceMap = L.map("practice-map", {
+    scrollWheelZoom: false,
+    preferCanvas: true
+  });
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 18,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(practiceMap);
+  markerGroup = L.layerGroup().addTo(practiceMap);
+}
+
+function popupContent(row) {
+  const source = row.links ? `<a href="${row.links}" rel="noopener" target="_blank">Quelle öffnen</a>` : "";
+  return `
+    <strong>${row.name}</strong>
+    <span>${row.ort_region} · ${row.bundesland_land}</span>
+    <span>${row.massnahmentyp}</span>
+    ${source}
+  `;
+}
+
 function focusExample(id) {
   document.querySelectorAll(".catalog-card").forEach((cardElement) => {
     cardElement.classList.toggle("is-highlighted", cardElement.dataset.exampleId === id);
   });
-  document.querySelectorAll(".map-marker, .map-list button").forEach((element) => {
+  document.querySelectorAll(".map-list button").forEach((element) => {
     element.classList.toggle("is-active", element.dataset.exampleId === id);
   });
+  const marker = markersById[id];
+  if (marker && practiceMap) {
+    practiceMap.setView(marker.getLatLng(), Math.max(practiceMap.getZoom(), 8), { animate: true });
+    marker.openPopup();
+  }
   const cardElement = document.getElementById(`example-${id}`);
   if (cardElement) cardElement.scrollIntoView({ behavior: "smooth", block: "center" });
 }
 
 function renderMap(data) {
-  const markerLayer = document.getElementById("map-markers");
   const list = document.getElementById("map-list");
-  if (!markerLayer || !list) return;
-  markerLayer.replaceChildren();
+  const mapElement = document.getElementById("practice-map");
+  if (!mapElement || !list) return;
+  if (typeof L === "undefined") {
+    mapElement.textContent = "Die Karte konnte nicht geladen werden.";
+    return;
+  }
+
+  initMap();
+  markerGroup.clearLayers();
+  markersById = {};
   list.replaceChildren();
 
+  const bounds = [];
   data.forEach((row) => {
-    const point = projectPoint(row);
-    const marker = document.createElement("button");
-    marker.type = "button";
-    marker.className = "map-marker";
-    marker.dataset.exampleId = row.id;
-    marker.style.left = `${point.x}%`;
-    marker.style.top = `${point.y}%`;
-    marker.setAttribute("aria-label", row.name);
-    marker.title = row.name;
-    marker.addEventListener("click", () => focusExample(row.id));
-    markerLayer.appendChild(marker);
+    const latitude = Number.parseFloat(row.latitude);
+    const longitude = Number.parseFloat(row.longitude);
+    if (Number.isFinite(latitude) && Number.isFinite(longitude)) {
+      const marker = L.marker([latitude, longitude], { title: row.name })
+        .bindPopup(popupContent(row), { className: "practice-popup" })
+        .on("click", () => focusExample(row.id));
+      marker.addTo(markerGroup);
+      markersById[row.id] = marker;
+      bounds.push([latitude, longitude]);
+    }
 
     const listItem = document.createElement("button");
     listItem.type = "button";
@@ -168,6 +191,11 @@ function renderMap(data) {
     listItem.addEventListener("click", () => focusExample(row.id));
     list.appendChild(listItem);
   });
+
+  if (bounds.length > 0) {
+    practiceMap.fitBounds(bounds, { padding: [32, 32], maxZoom: 8 });
+    setTimeout(() => practiceMap.invalidateSize(), 0);
+  }
 }
 
 function applyFilters(data) {

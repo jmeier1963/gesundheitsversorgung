@@ -110,44 +110,34 @@ body {
 
 .practice-map {
   position: relative;
-  min-height: 320px;
+  height: clamp(360px, 48vw, 560px);
+  min-height: 360px;
   border: 1px solid var(--gv-line);
   border-radius: 8px;
   overflow: hidden;
   background: #eef4f1;
 }
 
-.map-background {
+.practice-map .leaflet-container {
+  font-family: inherit;
+}
+
+.practice-map .leaflet-control-attribution {
+  font-size: .7rem;
+}
+
+.practice-popup .leaflet-popup-content {
+  display: grid;
+  gap: .25rem;
+  min-width: 180px;
+  color: var(--gv-ink);
+  overflow-wrap: anywhere;
+}
+
+.practice-popup .leaflet-popup-content span {
   display: block;
-  width: 100%;
-  height: 100%;
-  min-height: 320px;
-  object-fit: cover;
-}
-
-.map-markers {
-  position: absolute;
-  inset: 0;
-}
-
-.map-marker {
-  position: absolute;
-  width: 1rem;
-  height: 1rem;
-  border: 2px solid white;
-  border-radius: 999px;
-  background: var(--gv-accent-2);
-  box-shadow: 0 0 0 4px rgba(182, 79, 58, .2);
-  cursor: pointer;
-  transform: translate(-50%, -50%);
-}
-
-.map-marker:hover,
-.map-marker:focus,
-.map-marker.is-active {
-  background: var(--gv-accent);
-  box-shadow: 0 0 0 6px rgba(35, 97, 91, .22);
-  outline: none;
+  color: var(--gv-muted);
+  font-size: .9rem;
 }
 
 .map-list {
