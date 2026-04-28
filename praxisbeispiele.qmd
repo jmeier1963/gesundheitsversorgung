@@ -3,11 +3,11 @@ title: "Praxisbeispiele"
 page-layout: full
 ---
 
-Diese Seite zeigt die oeffentlich freigegebenen Praxisansaetze aus `data/public/approaches.csv`. Der aktuelle Recherchestand buendelt kommunale Gesundheitszentren, regionale Aerzte- und Versorgungsnetze, sozialraumnahe Stadtteilgesundheitszentren, Lotsen- und Delegationsmodelle sowie europaeische Primaerversorgungsmodelle.
+Diese Seite zeigt die öffentlich freigegebenen Praxisansätze aus `data/public/approaches.csv`. Der aktuelle Recherchestand bündelt kommunale Gesundheitszentren, regionale Ärzte- und Versorgungsnetze, sozialraumnahe Stadtteilgesundheitszentren, Lotsen- und Delegationsmodelle sowie europäische Primärversorgungsmodelle.
 
-Die Beispiele sind noch keine abschliessende Empfehlungsliste. Sie bilden einen kuratierten Startkatalog fuer die weitere Pruefung: Welche Modelle reduzieren Barrieren, welche Rahmenbedingungen tragen zur Verstetigung bei und welche Ansaetze lassen sich auf laendliche oder strukturschwache Raeume uebertragen?
+Die Beispiele sind noch keine abschließende Empfehlungsliste. Sie bilden einen kuratierten Startkatalog für die weitere Prüfung: Welche Modelle reduzieren Barrieren, welche Rahmenbedingungen tragen zur Verstetigung bei und welche Ansätze lassen sich auf ländliche oder strukturschwache Räume übertragen?
 
-## Einstieg ueber die Karte
+## Einstieg über die Karte
 
 ```{=html}
 <div class="map-shell">
@@ -32,11 +32,11 @@ Die Beispiele sind noch keine abschliessende Empfehlungsliste. Sie bilden einen 
 
 ::: {.catalog-controls}
 <label>Region oder Land<br><select id="filter-location"><option value="">Alle</option></select></label>
-<label>Massnahmentyp<br><select id="filter-type"><option value="">Alle</option></select></label>
+<label>Maßnahmentyp<br><select id="filter-type"><option value="">Alle</option></select></label>
 <label>Zielgruppe<br><select id="filter-target"><option value="">Alle</option></select></label>
 <label>Versorgungsthema<br><select id="filter-topic"><option value="">Alle</option></select></label>
 <label>Kriterienbewertung<br><select id="filter-score"><option value="">Alle</option></select></label>
-<button id="reset-filters" type="button">Filter zuruecksetzen</button>
+<button id="reset-filters" type="button">Filter zurücksetzen</button>
 :::
 
 <p id="catalog-count" class="catalog-count"></p>
@@ -188,7 +188,7 @@ function render(data) {
   catalog.replaceChildren(...filtered.map(card));
   renderMap(filtered);
   document.getElementById("catalog-total").textContent = `${data.length} Praxisbeispiele im Katalog`;
-  document.getElementById("catalog-count").textContent = `${filtered.length} von ${data.length} Eintraegen angezeigt`;
+  document.getElementById("catalog-count").textContent = `${filtered.length} von ${data.length} Einträgen angezeigt`;
 }
 
 fetch(csvUrl)
@@ -218,3 +218,6 @@ fetch(csvUrl)
   });
 </script>
 ```
+
+
+

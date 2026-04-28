@@ -2,27 +2,27 @@
 title: "Quellen"
 ---
 
-## Gepruefte Startquellen
+## Geprüfte Startquellen
 
-- Robert Koch-Institut (2025): [Die Lebenserwartungsluecke: Soziooekonomische Unterschiede in der Lebenserwartung zwischen Deutschlands Regionen](https://www.rki.de/DE/Aktuelles/Publikationen/Journal-of-Health-Monitoring/GBEDownloadsJ/Focus/JHealthMonit_2025_01_Lebenserwartungsluecke.html).
-- Bundesministerium fuer Wirtschaft und Klimaschutz / BMI (2024): [Gleichwertigkeitsbericht 2024](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2024/07/20240703-gleichwertigkeitsbericht.html).
+- Robert Koch-Institut (2025): [Die Lebenserwartungslücke: Soziooekonomische Unterschiede in der Lebenserwartung zwischen Deutschlands Regionen](https://www.rki.de/DE/Aktuelles/Publikationen/Journal-of-Health-Monitoring/GBEDownloadsJ/Focus/JHealthMonit_2025_01_Lebenserwartungsluecke.html).
+- Bundesministerium für Wirtschaft und Klimaschutz / BMI (2024): [Gleichwertigkeitsbericht 2024](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2024/07/20240703-gleichwertigkeitsbericht.html).
 - Friedrich-Ebert-Stiftung (2025): [Mitte-Studie 2024/25 - Die angespannte Mitte](https://www.fes.de/mitte-studie/news-seite).
-- Bertelsmann Stiftung (2025): [Spotlight Gesundheit 01/2025 - Hausaerztliche Versorgung der Zukunft](https://www.bertelsmann-stiftung.de/de/spotlight-gesundheit-01/2024-1-1-1).
+- Bertelsmann Stiftung (2025): [Spotlight Gesundheit 01/2025 - Hausärztliche Versorgung der Zukunft](https://www.bertelsmann-stiftung.de/de/spotlight-gesundheit-01/2024-1-1-1).
 - OECD (2024): [Trust in day-to-day interactions with public institutions](https://www.oecd.org/en/publications/2024/07/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_eeb36452/full-report/trust-in-day-to-day-interactions-with-public-institutions_7d0e07b0.html).
-- Robert Bosch Stiftung / Bosch Health Campus: [PORT - Patientenorientierte Zentren zur Primaer- und Langzeitversorgung](https://www.bosch-stiftung.de/de/projekt/port-patientenorientierte-zentren-zur-primaer-und-langzeitversorgung/im-detail).
-- Neue Gesundheitsnetze: [Gesundheitszentrum Buesum](https://www.neue-gesundheitsnetze.de/praxisbeispiele/buesum/).
+- Robert Bosch Stiftung / Bosch Health Campus: [PORT - Patientenorientierte Zentren zur Primär- und Langzeitversorgung](https://www.bosch-stiftung.de/de/projekt/port-patientenorientierte-zentren-zur-primaer-und-langzeitversorgung/im-detail).
+- Neue Gesundheitsnetze: [Gesundheitszentrum Büsum](https://www.neue-gesundheitsnetze.de/praxisbeispiele/buesum/).
 - G-BA Innovationsfonds: [IGiB-StimMT - Strukturmigration im Mittelbereich Templin](https://innovationsfonds.g-ba.de/projekte/neue-versorgungsformen/igib-stimmt.79).
-- Universitaet Siegen: [INVEST II - Evaluation des Gesundheitskiosks Billstedt/Horn](https://www.uni-siegen.de/projekt/invest-ii-evaluation-des-integrierten-versorgungsmodells-in-billstedt/horn-gesundheitskiosk).
-- PubMed / Deutsches Aerzteblatt International: [Ten-Year Evaluation of Gesundes Kinzigtal](https://pubmed.ncbi.nlm.nih.gov/33867008/).
+- Universität Siegen: [INVEST II - Evaluation des Gesundheitskiosks Billstedt/Horn](https://www.uni-siegen.de/projekt/invest-ii-evaluation-des-integrierten-versorgungsmodells-in-billstedt/horn-gesundheitskiosk).
+- PubMed / Deutsches Ärzteblatt International: [Ten-Year Evaluation of Gesundes Kinzigtal](https://pubmed.ncbi.nlm.nih.gov/33867008/).
 - Gov.ie: [Slaintecare Healthy Communities](https://www.gov.ie/en/healthy-ireland/publications/sl%C3%A1intecare-healthy-communities/).
 - NHS England: [Social prescribing](https://www.england.nhs.uk/personalisedcare/social-prescribing/).
-- Neue Gesundheitsnetze: [Beispiele im Ueberblick](https://www.neue-gesundheitsnetze.de/praxisbeispiele/).
+- Neue Gesundheitsnetze: [Beispiele im Überblick](https://www.neue-gesundheitsnetze.de/praxisbeispiele/).
 - Neue Gesundheitsnetze: [HaffNet am Stettiner Haff](https://www.neue-gesundheitsnetze.de/praxisbeispiele/haffnet/).
-- Neue Gesundheitsnetze: [Aerztenetz Eutin-Malente](https://www.neue-gesundheitsnetze.de/praxisbeispiele/eutin-malente/).
+- Neue Gesundheitsnetze: [Ärztenetz Eutin-Malente](https://www.neue-gesundheitsnetze.de/praxisbeispiele/eutin-malente/).
 - Neue Gesundheitsnetze: [ParkinsonNetzwerk Ostsachsen](https://www.neue-gesundheitsnetze.de/praxisbeispiele/panos/).
 - Neue Gesundheitsnetze: [Unternehmung Gesundheit Hochfranken](https://www.neue-gesundheitsnetze.de/praxisbeispiele/ugho/).
 - Neue Gesundheitsnetze: [prosper proGesund Modell der KNAPPSCHAFT](https://www.neue-gesundheitsnetze.de/praxisbeispiele/prosper/).
-- Gesundheitskollektiv Berlin: [GeKo Stadtteil-Gesundheits-Zentrum Neukoelln](https://geko-berlin.de/).
+- Gesundheitskollektiv Berlin: [GeKo Stadtteil-Gesundheits-Zentrum Neukölln](https://geko-berlin.de/).
 - Poliklinik Veddel: [Stadtteil-Gesundheitszentrum](https://poliklinik1.org/).
 - G-BA Innovationsfonds: [StatAMed](https://innovationsfonds.g-ba.de/projekte/neue-versorgungsformen/statamed.563).
 - G-BA Innovationsfonds: [NAVIGATION](https://innovationsfonds.g-ba.de/projekte/navigation.635).
@@ -37,8 +37,11 @@ title: "Quellen"
 Jede Quelle erhaelt im Rechercheprozess einen Status:
 
 - `gefunden`
-- `geprueft`
+- `geprüft`
 - `zitiert`
 - `archiviert`
 
-Nur gepruefte und zitierfaehige Quellen werden in finalen Publikationen verwendet. Fuer Fallstudien werden zusaetzlich lokale Dokumente, Evaluationsberichte und Interviews herangezogen.
+Nur geprüfte und zitierfaehige Quellen werden in finalen Publikationen verwendet. Für Fallstudien werden zusaetzlich lokale Dokumente, Evaluationsberichte und Interviews herangezogen.
+
+
+

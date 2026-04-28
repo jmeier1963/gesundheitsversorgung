@@ -4,17 +4,20 @@ title: "Downloads"
 
 ## Daten
 
-- [Oeffentlicher Katalog als CSV](data/public/approaches.csv)
-- [Codebook fuer den oeffentlichen Katalog](data/public/codebook.md)
+- [Öffentlicher Katalog als CSV](data/public/approaches.csv)
+- [Codebook für den öffentlichen Katalog](data/public/codebook.md)
 - [Rechercheprotokoll](research/rechercheprotokoll.md)
 - [Deep Research Praxisbeispiele](research/praxisbeispiele-deepresearch.md)
 
 ## Publikationen
 
-Publikationen werden hier ergaenzt, sobald sie freigegeben sind:
+Publikationen werden hier ergänzt, sobald sie freigegeben sind:
 
 | Publikation | Zielgruppe | Status |
 |---|---|---|
-| Abschlussstudie | Fachoeffentlichkeit, Politik, Verwaltung | geplant fuer Q3/Q4 2027 |
-| Broschuere mit Handlungsschritten | lokale Verantwortliche | geplant fuer Q3/Q4 2027 |
-| Policy Paper und Fact Sheets | Bundes- und Landesebene | geplant fuer Q3/Q4 2027 |
+| Abschlussstudie | Fachöffentlichkeit, Politik, Verwaltung | geplant für Q3/Q4 2027 |
+| Broschüre mit Handlungsschritten | lokale Verantwortliche | geplant für Q3/Q4 2027 |
+| Policy Paper und Fact Sheets | Bundes- und Landesebene | geplant für Q3/Q4 2027 |
+
+
+

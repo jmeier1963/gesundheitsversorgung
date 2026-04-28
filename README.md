@@ -1,6 +1,6 @@
 # Gesundes Vertrauen
 
-Research repository and public website for **Gesundes Vertrauen - Wie gute gesundheitliche Versorgung vor Ort die Demokratie staerken kann**.
+Research repository and public website for **Gesundes Vertrauen - Wie gute gesundheitliche Versorgung vor Ort die Demokratie stärken kann**.
 
 The project documents research, synthesis, practice examples, and publication outputs. Public, non-personal catalogue data is published via GitHub Pages; internal interview, focus group, and working material stays out of the public site.
 
@@ -30,3 +30,6 @@ quarto render
 ## Publishing
 
 After the repository is pushed to GitHub, enable GitHub Pages with **GitHub Actions** as the source. The workflow validates the public data, renders the Quarto website, and publishes the static site.
+
+
+

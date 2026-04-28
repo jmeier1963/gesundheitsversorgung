@@ -1,31 +1,34 @@
 ---
 title: "Gesundes Vertrauen"
-subtitle: "Wie gute gesundheitliche Versorgung vor Ort die Demokratie staerken kann"
+subtitle: "Wie gute gesundheitliche Versorgung vor Ort die Demokratie stärken kann"
 ---
 
 ## Worum es geht
 
-Gleichwertiger Zugang zu Gesundheitsversorgung ist Teil des demokratischen Versprechens von Chancengleichheit. Dieses Projekt untersucht, wie reale und wahrgenommene Versorgungsluecken mit Vertrauen in staatliche Institutionen zusammenhaengen und welche lokalen Ansaetze gesundheitliche Teilhabe in laendlichen und strukturschwachen Raeumen staerken koennen.
+Gleichwertiger Zugang zu Gesundheitsversorgung ist Teil des demokratischen Versprechens von Chancengleichheit. Dieses Projekt untersucht, wie reale und wahrgenommene Versorgungslücken mit Vertrauen in staatliche Institutionen zusammenhängen und welche lokalen Ansätze gesundheitliche Teilhabe in ländlichen und strukturschwachen Räumen stärken können.
 
-Die Website buendelt Recherche, Methodik, Praxisbeispiele, Synthese und spaetere Publikationen. Sie ist als wachsendes Arbeits- und Veroeffentlichungsformat angelegt: Inhalte koennen mit jeder Projektphase aktualisiert und versioniert werden.
+Die Website bündelt Recherche, Methodik, Praxisbeispiele, Synthese und spätere Publikationen. Sie ist als wachsendes Arbeits- und Veröffentlichungsformat angelegt: Inhalte können mit jeder Projektphase aktualisiert und versioniert werden.
 
 ::: {.hero-grid}
 ::: {.hero-panel}
 ### Ziel
 
-Bedarfe, Wahrnehmungen und vorhandene Loesungen sichtbar machen, damit Politik, Verwaltung, Zivilgesellschaft und Gesundheitsakteur*innen konkrete Handlungsschritte ableiten koennen.
+Bedarfe, Wahrnehmungen und vorhandene Lösungen sichtbar machen, damit Politik, Verwaltung, Zivilgesellschaft und Gesundheitsakteur*innen konkrete Handlungsschritte ableiten können.
 :::
 
 ::: {.hero-panel}
 ### Ergebnis
 
-Ein oeffentlicher Katalog guter Praxis, eine Synthese der Gelingensbedingungen und zielgruppenspezifische Empfehlungen fuer lokale sowie bundes- und landespolitische Verantwortliche.
+Ein öffentlicher Katalog guter Praxis, eine Synthese der Gelingensbedingungen und zielgruppenspezifische Empfehlungen für lokale sowie bundes- und landespolitische Verantwortliche.
 :::
 :::
 
 ## Direkteinstieg
 
 - [Methodik](methodik.qmd): Forschungsdesign, Screening und Bewertungsmatrix.
-- [Praxisbeispiele](praxisbeispiele.qmd): Filterbarer Katalog der oeffentlich freigegebenen Ansaetze.
-- [Synthese](synthese.qmd): Phasenuebergreifende Befunde und Typologie.
-- [Downloads](downloads.qmd): Datensatz, Codebook und spaetere Publikationen.
+- [Praxisbeispiele](praxisbeispiele.qmd): Filterbarer Katalog der öffentlich freigegebenen Ansätze.
+- [Synthese](synthese.qmd): Phasenübergreifende Befunde und Typologie.
+- [Downloads](downloads.qmd): Datensatz, Codebook und spätere Publikationen.
+
+
+

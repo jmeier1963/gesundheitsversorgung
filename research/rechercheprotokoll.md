@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Das Rechercheprotokoll dokumentiert Suchstrategie, Screening und Review fuer Literatur, Praxisansaetze und europaeische Vergleichsperspektiven.
+Das Rechercheprotokoll dokumentiert Suchstrategie, Screening und Review für Literatur, Praxisansätze und europäische Vergleichsperspektiven.
 
 ## Suchquellen
 
@@ -10,19 +10,19 @@ Das Rechercheprotokoll dokumentiert Suchstrategie, Screening und Review fuer Lit
 - Bundes-, Landes- und kommunale Programme
 - Krankenkassen, Verbaende, Stiftungen und zivilgesellschaftliche Organisationen
 - Projektwebsites, Evaluationsberichte und graue Literatur
-- europaeische Strategien und Programme zur Verringerung gesundheitlicher Ungleichheit
+- europäische Strategien und Programme zur Verringerung gesundheitlicher Ungleichheit
 
 ## Suchbegriffe
 
-Beispiele fuer deutsche Suchstrings:
+Beispiele für deutsche Suchstrings:
 
-- `laendliche Gesundheitsversorgung Gesundheitskiosk Kommune`
+- `ländliche Gesundheitsversorgung Gesundheitskiosk Kommune`
 - `mobile Arztpraxis Landkreis Versorgung`
 - `gesundheitliche Ungleichheit Vertrauen Staat`
-- `Primaerversorgung strukturschwache Regionen`
+- `Primärversorgung strukturschwache Regionen`
 - `Daseinsvorsorge Demokratie Gesundheit`
 
-Beispiele fuer europaeische Suchstrings:
+Beispiele für europäische Suchstrings:
 
 - `rural primary care health inequalities strategy Europe`
 - `community health centres rural access inequality`
@@ -30,10 +30,10 @@ Beispiele fuer europaeische Suchstrings:
 
 ## Einschlusskriterien
 
-- Ansatz adressiert Zugang, Erreichbarkeit, Kontinuitaet, Kooperation, Fachkraefte oder Lebensweltbezug.
-- Ansatz ist fuer laendliche, strukturschwache oder sozial benachteiligte Raeume relevant.
-- Es liegen oeffentliche Informationen oder belastbare Projektinformationen vor.
-- Der Ansatz laesst sich einer Region oder Programmkulisse zuordnen.
+- Ansatz adressiert Zugang, Erreichbarkeit, Kontinuität, Kooperation, Fachkräfte oder Lebensweltbezug.
+- Ansatz ist für ländliche, strukturschwache oder sozial benachteiligte Räume relevant.
+- Es liegen öffentliche Informationen oder belastbare Projektinformationen vor.
+- Der Ansatz lässt sich einer Region oder Programmkulisse zuordnen.
 
 ## Ausschlusskriterien
 
@@ -44,10 +44,10 @@ Beispiele fuer europaeische Suchstrings:
 
 ## Screening-Status
 
-- `kandidat`: gefunden, aber noch nicht geprueft
-- `aufgenommen`: geprueft und fuer Katalog geeignet
-- `zurueckgestellt`: relevant, aber Quellenlage oder Passung noch offen
-- `ausgeschlossen`: begruendet ausgeschlossen
+- `kandidat`: gefunden, aber noch nicht geprüft
+- `aufgenommen`: geprüft und für Katalog geeignet
+- `zurückgestellt`: relevant, aber Quellenlage oder Passung noch offen
+- `ausgeschlossen`: begründet ausgeschlossen
 
 ## Review-Felder
 
@@ -57,6 +57,9 @@ Beispiele fuer europaeische Suchstrings:
 | Quelle | URL, Bericht oder Kontaktpunkt |
 | Suchweg | Datenbank, Website, Empfehlung, Workshop |
 | Reviewer*in | Verantwortliche Person oder Team |
-| Screening-Status | Kandidat, aufgenommen, zurueckgestellt, ausgeschlossen |
-| Begruendung | Kurznotiz zur Entscheidung |
-| Oeffentlichkeit | public oder internal |
+| Screening-Status | Kandidat, aufgenommen, zurückgestellt, ausgeschlossen |
+| Begründung | Kurznotiz zur Entscheidung |
+| Öffentlichkeit | public oder internal |
+
+
+

@@ -2,49 +2,52 @@
 title: "Synthese"
 ---
 
-## Vorlaeufige Typologie
+## Vorläufige Typologie
 
-Die recherchierten Ansaetze lassen sich nach der erweiterten Praxisrecherche in sechs Typen buendeln. Die Typologie ist vorlaeufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europaeischen Vergleichsfaellen weiter geschaerft.
+Die recherchierten Ansätze lassen sich nach der erweiterten Praxisrecherche in sechs Typen bündeln. Die Typologie ist vorläufig und wird mit den 30 bis 50 deutschen Beispielen sowie den europäischen Vergleichsfaellen weiter geschaerft.
 
 | Typ | Kernidee | Beispiele im Katalog | Potenzial |
 |---|---|---|---|
-| Integrierte regionale Versorgung | Ambulante, stationaere, pflegerische und praeventive Angebote werden regional koordiniert. | Gesundes Kinzigtal, ASZ Templin | Hohe Strukturwirkung, aber hoher Koordinations- und Finanzierungsbedarf. |
-| Kommunale oder regionale Gesundheitszentren | Versorgung wird an einem Ort gebuendelt und fuer Fachkraefte attraktiver organisiert. | Gesundheitszentrum Buesum, PORT-Zentren, GeKo Neukoelln | Stark fuer laendliche Regionen mit Nachfolgeproblemen und fuer benachteiligte Quartiere. |
-| Regionale Aerzte- und Praxisnetze | Bestehende Praxen und Einrichtungen organisieren Versorgungspfade, Management und Kooperation. | HaffNet, Eutin-Malente, MuM Buende, prosper proGesund | Nutzbar wenn eine Region keine neue Grossstruktur aufbauen kann. |
-| Lebensweltnahe Lotsen- und Beratungsangebote | Menschen erhalten Orientierung, Praevention und soziale Unterstuetzung in ihrem Alltag. | Gesundheitskiosk Billstedt/Horn, Poliklinik Veddel, Slaintecare Healthy Communities | Besonders relevant fuer benachteiligte Gruppen und Gesundheitskompetenz. |
-| Delegations- und aufsuchende Modelle | Versorgung kommt naeher an Haushalt oder Pflegeumfeld und nutzt nichtaerztliche Rollen. | Unternehmung Gesundheit Hochfranken, Gemeindeschwester plus, HI-PLUS | Entlastet Aerzt*innen und verbessert Zugang fuer mobilitaetseingeschraenkte Menschen. |
-| Europaeische Primaerversorgungsmodelle | Primaerversorgung wird als regionale oeffentliche Infrastruktur organisiert. | Centros de Salud, Vardcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties | Liefert Strukturimpulse fuer Governance, Teams und regionale Verantwortung. |
+| Integrierte regionale Versorgung | Ambulante, stationäre, pflegerische und präventive Angebote werden regional koordiniert. | Gesundes Kinzigtal, ASZ Templin | Hohe Strukturwirkung, aber hoher Koordinations- und Finanzierungsbedarf. |
+| Kommunale oder regionale Gesundheitszentren | Versorgung wird an einem Ort gebündelt und für Fachkräfte attraktiver organisiert. | Gesundheitszentrum Büsum, PORT-Zentren, GeKo Neukölln | Stark für ländliche Regionen mit Nachfolgeproblemen und für benachteiligte Quartiere. |
+| Regionale Ärzte- und Praxisnetze | Bestehende Praxen und Einrichtungen organisieren Versorgungspfade, Management und Kooperation. | HaffNet, Eutin-Malente, MuM Bünde, prosper proGesund | Nutzbar wenn eine Region keine neue Grossstruktur aufbauen kann. |
+| Lebensweltnahe Lotsen- und Beratungsangebote | Menschen erhalten Orientierung, Prävention und soziale Unterstützung in ihrem Alltag. | Gesundheitskiosk Billstedt/Horn, Poliklinik Veddel, Slaintecare Healthy Communities | Besonders relevant für benachteiligte Gruppen und Gesundheitskompetenz. |
+| Delegations- und aufsuchende Modelle | Versorgung kommt naeher an Haushalt oder Pflegeumfeld und nutzt nichtärztliche Rollen. | Unternehmung Gesundheit Hochfranken, Gemeindeschwester plus, HI-PLUS | Entlastet Ärzt*innen und verbessert Zugang für mobilitaetseingeschraenkte Menschen. |
+| Europäische Primärversorgungsmodelle | Primärversorgung wird als regionale öffentliche Infrastruktur organisiert. | Centros de Salud, Vardcentraler, Zdravstveni Domovi, Finnish Wellbeing Services Counties | Liefert Strukturimpulse für Governance, Teams und regionale Verantwortung. |
 
 ## Gelingensbedingungen
 
 - Lokale Problemdiagnose: Gute Modelle starten mit einer konkreten regionalen Bedarfsanalyse statt mit einer fertigen Blaupause.
-- Geteilte Verantwortung: Erfolgreiche Ansaetze verbinden Kommune, Leistungserbringer, Krankenkassen, Land/KV und Zivilgesellschaft.
+- Geteilte Verantwortung: Erfolgreiche Ansätze verbinden Kommune, Leistungserbringer, Krankenkassen, Land/KV und Zivilgesellschaft.
 - Koordination als eigene Leistung: Lotsen-, Case-Management- und Netzwerkfunktionen muessen finanziert und personell verankert werden.
-- Interprofessionelle Teams: Delegation und Zusammenarbeit entlasten Aerzt*innen und machen Versorgung fuer Fachkraefte attraktiver.
-- Sichtbare Anlaufstellen: Vertrauen entsteht leichter, wenn Menschen wissen, wo sie hingehen koennen und wer fuer ihr Anliegen zustaendig ist.
-- Partizipation mit Rueckbindung: Beteiligung wirkt nur, wenn Rueckmeldungen erkennbar in Angebotsgestaltung und Prioritaeten einfliessen.
-- Verstetigung: Innovationsfonds- oder Modellmittel sollten frueh mit Regelfinanzierung, kommunaler Traegerschaft oder Landesprogrammen verbunden werden.
+- Interprofessionelle Teams: Delegation und Zusammenarbeit entlasten Ärzt*innen und machen Versorgung für Fachkräfte attraktiver.
+- Sichtbare Anlaufstellen: Vertrauen entsteht leichter, wenn Menschen wissen, wo sie hingehen können und wer für ihr Anliegen zuständig ist.
+- Partizipation mit Rückbindung: Beteiligung wirkt nur, wenn Rückmeldungen erkennbar in Angebotsgestaltung und Prioritäten einfließen.
+- Verstetigung: Innovationsfonds- oder Modellmittel sollten früh mit Regelfinanzierung, kommunaler Trägerschaft oder Landesprogrammen verbunden werden.
 - Digitale Infrastruktur mit Zweckbindung: Telemedizin und gemeinsame Dokumentation tragen nur, wenn sie konkrete Behandlungspfade und Rollen unterstuetzen.
 
 ## Typische Huerden
 
-| Huerde | Wirkung | Konsequenz fuer Handlungsempfehlungen |
+| Huerde | Wirkung | Konsequenz für Handlungsempfehlungen |
 |---|---|---|
-| Sektorengrenzen | Ambulante, stationaere, Pflege- und Sozialleistungen bleiben getrennt. | Gemeinsame regionale Steuerung und klare Finanzierungswege schaffen. |
+| Sektorengrenzen | Ambulante, stationäre, Pflege- und Sozialleistungen bleiben getrennt. | Gemeinsame regionale Steuerung und klare Finanzierungswege schaffen. |
 | Projektfoerderlogik | Gute Modelle enden oder schrumpfen nach Foerderende. | Verstetigungskonzept bereits im Design verlangen. |
-| Fachkraeftemangel | Einzelne Praxen bleiben trotz Foerderung unbesetzt. | Teammodelle, Delegation und attraktive Arbeitsbedingungen priorisieren. |
-| Datenluecken | Wirkungen auf Teilhabe und Vertrauen sind schwer messbar. | Routine-, Befragungs- und qualitative Daten kombinieren. |
-| Unklare Zustaendigkeit | Buerger*innen erleben Institutionen als abweisend oder unuebersichtlich. | Lotsenfunktion und verbindliche Koordinierungsstellen etablieren. |
+| Fachkräftemangel | Einzelne Praxen bleiben trotz Förderung unbesetzt. | Teammodelle, Delegation und attraktive Arbeitsbedingungen priorisieren. |
+| Datenlücken | Wirkungen auf Teilhabe und Vertrauen sind schwer messbar. | Routine-, Befragungs- und qualitative Daten kombinieren. |
+| Unklare Zuständigkeit | Bürger*innen erleben Institutionen als abweisend oder unübersichtlich. | Lotsenfunktion und verbindliche Koordinierungsstellen etablieren. |
 
 ## Vertiefungsfaelle
 
-Fuer die Begleitphase eignen sich besonders Faelle, die unterschiedliche Strukturfragen abdecken:
+Für die Begleitphase eignen sich besonders Faelle, die unterschiedliche Strukturfragen abdecken:
 
-- ASZ Templin als Fall fuer sektorenuebergreifende Versorgung in einer laendlichen Region.
-- Gesundheitszentrum Buesum als Fall fuer kommunale Verantwortung und Attraktivitaet fuer Hausaerzt*innen.
-- Gesundheitskiosk Billstedt/Horn als Fall fuer lebensweltnahe Beratung in deprivierten Raeumen.
-- Gesundes Kinzigtal als Fall fuer populationsbezogene integrierte Versorgung und Langzeitevaluation.
+- ASZ Templin als Fall für sektorenübergreifende Versorgung in einer ländlichen Region.
+- Gesundheitszentrum Büsum als Fall für kommunale Verantwortung und Attraktivitaet für Hausaerzt*innen.
+- Gesundheitskiosk Billstedt/Horn als Fall für lebensweltnahe Beratung in deprivierten Räumen.
+- Gesundes Kinzigtal als Fall für populationsbezogene integrierte Versorgung und Langzeitevaluation.
 
-## Synthese fuer Produkte
+## Synthese für Produkte
 
-Die Broschuere sollte lokale Handlungsschritte entlang eines Praxispfads darstellen: Bedarf klaeren, Akteurskreis bilden, Anlaufstelle definieren, Teamrollen klaeren, Finanzierung sichern, Wirkung beobachten. Das Policy Paper sollte die strukturellen Hebel fuer Bund und Laender fokussieren: Regelfinanzierung fuer Koordination, sektorenuebergreifende Zentren, Dateninfrastruktur, Delegationsrahmen und kommunale Gesundheitsplanung.
+Die Broschüre sollte lokale Handlungsschritte entlang eines Praxispfads darstellen: Bedarf klaeren, Akteurskreis bilden, Anlaufstelle definieren, Teamrollen klaeren, Finanzierung sichern, Wirkung beobachten. Das Policy Paper sollte die strukturellen Hebel für Bund und Laender fokussieren: Regelfinanzierung für Koordination, sektorenübergreifende Zentren, Dateninfrastruktur, Delegationsrahmen und kommunale Gesundheitsplanung.
+
+
+

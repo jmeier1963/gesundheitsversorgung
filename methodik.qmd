@@ -4,40 +4,43 @@ title: "Methodik"
 
 ## Forschungsdesign
 
-Das Projekt kombiniert Literatur- und Dokumentenanalyse, Interviews, regionale Vertiefungen, Fokusgruppen, Workshops und eine strukturierte Bestandsaufnahme von Praxisansaetzen. Die Methodik trennt oeffentliche Recherche- und Katalogdaten strikt von internem Interview- und Fokusgruppenmaterial.
+Das Projekt kombiniert Literatur- und Dokumentenanalyse, Interviews, regionale Vertiefungen, Fokusgruppen, Workshops und eine strukturierte Bestandsaufnahme von Praxisansätzen. Die Methodik trennt öffentliche Recherche- und Katalogdaten strikt von internem Interview- und Fokusgruppenmaterial.
 
 ## Arbeitspakete
 
 | Arbeitspaket | Kernfrage | Geplantes Ergebnis |
 |---|---|---|
-| Forschungsstand | Was ist ueber gesundheitliche Ungleichheit, Versorgungsluecken und demokratisches Vertrauen bekannt? | Evidenzbasis und Hypothesen |
-| Bedarfsanalyse | Wann wird Versorgung als gerecht, ausreichend und vertrauensstaerkend erlebt? | Kriterienmodell |
-| Bestandsaufnahme | Welche lokalen und europaeischen Ansaetze sind vielversprechend? | Katalog und Typologie |
+| Forschungsstand | Was ist über gesundheitliche Ungleichheit, Versorgungslücken und demokratisches Vertrauen bekannt? | Evidenzbasis und Hypothesen |
+| Bedarfsanalyse | Wann wird Versorgung als gerecht, ausreichend und vertrauensstärkend erlebt? | Kriterienmodell |
+| Bestandsaufnahme | Welche lokalen und europäischen Ansätze sind vielversprechend? | Katalog und Typologie |
 | Vertiefung | Welche Rahmenbedingungen, Kooperationen und Prozesse tragen zum Erfolg bei? | Fallstudien und Handlungsschritte |
-| Synthese | Welche Empfehlungen ergeben sich fuer Praxis und Politik? | Broschuere, Policy Paper, Abschlussstudie |
+| Synthese | Welche Empfehlungen ergeben sich für Praxis und Politik? | Broschüre, Policy Paper, Abschlussstudie |
 
 ## Kriterienmodell
 
-Die Bedarfsanalyse uebersetzt Forschungsstand und Feldperspektiven in ein Kriterienmodell. Es beschreibt nicht nur, ob ein Angebot vorhanden ist, sondern ob es fuer Menschen als gerecht, erreichbar und vertrauenswuerdig funktioniert.
+Die Bedarfsanalyse übersetzt Forschungsstand und Feldperspektiven in ein Kriterienmodell. Es beschreibt nicht nur, ob ein Angebot vorhanden ist, sondern ob es für Menschen als gerecht, erreichbar und vertrauenswürdig funktioniert.
 
-| Kriterium | Leitfrage | Indikatoren fuer die Analyse |
+| Kriterium | Leitfrage | Indikatoren für die Analyse |
 |---|---|---|
-| Raeumliche Erreichbarkeit | Ist das Angebot ohne unverhaeltnismaessige Wege nutzbar? | Entfernung, OePNV, mobile Angebote, Hausbesuche, digitale Ergaenzung. |
-| Zeitliche Verlaesslichkeit | Ist Hilfe dann verfuegbar, wenn sie gebraucht wird? | Wartezeiten, Oeffnungszeiten, Akutpfade, Terminvermittlung. |
-| Kontinuitaet | Gibt es wiederkehrende Ansprechpartner*innen und stabile Uebergaenge? | Fallbegleitung, feste Teams, strukturierte Ueberweisungen, Rueckkopplung. |
-| Verstaendlichkeit | Koennen Menschen das System verstehen und navigieren? | Lotsenfunktion, einfache Sprache, mehrsprachige Beratung, Gesundheitskompetenz. |
-| Lebensweltbezug | Passt das Angebot zu Alltag, Einkommen, Mobilitaet und Sorgearbeit? | niedrigschwellige Orte, Quartiersnaehe, soziale Beratung, Praevention. |
-| Partizipation | Werden lokale Bedarfe sichtbar gemacht und ernst genommen? | Fokusgruppen, Beiraete, Co-Design, kommunale Beteiligung. |
-| Fachkraefte- und Teamrobustheit | Entlastet das Modell knappe Professionen und macht Arbeit attraktiver? | Delegation, interprofessionelle Teams, Nachwuchsfoerderung, Arbeitsmodelle. |
-| Governance und Finanzierung | Gibt es tragfaehige Verantwortung und Ressourcen? | Kommune, Land, KV, Krankenkassen, Traeger, Vertrag, Regelfinanzierung. |
-| Vertrauen und Teilhabe | Staerkt das Angebot die Erfahrung, dass Institutionen erreichbar und loesungsfaehig sind? | subjektive Zufriedenheit, Nutzung durch vulnerable Gruppen, Beschwerdewege, lokale Legitimation. |
+| Räumliche Erreichbarkeit | Ist das Angebot ohne unverhältnismäßige Wege nutzbar? | Entfernung, ÖPNV, mobile Angebote, Hausbesuche, digitale Ergänzung. |
+| Zeitliche Verlässlichkeit | Ist Hilfe dann verfügbar, wenn sie gebraucht wird? | Wartezeiten, Öffnungszeiten, Akutpfade, Terminvermittlung. |
+| Kontinuität | Gibt es wiederkehrende Ansprechpartner*innen und stabile Übergaenge? | Fallbegleitung, feste Teams, strukturierte Überweisungen, Rückkopplung. |
+| Verständlichkeit | Können Menschen das System verstehen und navigieren? | Lotsenfunktion, einfache Sprache, mehrsprachige Beratung, Gesundheitskompetenz. |
+| Lebensweltbezug | Passt das Angebot zu Alltag, Einkommen, Mobilität und Sorgearbeit? | niedrigschwellige Orte, Quartiersnähe, soziale Beratung, Prävention. |
+| Partizipation | Werden lokale Bedarfe sichtbar gemacht und ernst genommen? | Fokusgruppen, Beiräte, Co-Design, kommunale Beteiligung. |
+| Fachkräfte- und Teamrobustheit | Entlastet das Modell knappe Professionen und macht Arbeit attraktiver? | Delegation, interprofessionelle Teams, Nachwuchsförderung, Arbeitsmodelle. |
+| Governance und Finanzierung | Gibt es tragfähige Verantwortung und Ressourcen? | Kommune, Land, KV, Krankenkassen, Träger, Vertrag, Regelfinanzierung. |
+| Vertrauen und Teilhabe | Stärkt das Angebot die Erfahrung, dass Institutionen erreichbar und lösungsfähig sind? | subjektive Zufriedenheit, Nutzung durch vulnerable Gruppen, Beschwerdewege, lokale Legitimation. |
 
-## Screening der Praxisansaetze
+## Screening der Praxisansätze
 
-Alle Ansaetze werden zuerst als Kandidaten erfasst und dann entlang der Kriterien bewertet. Die Bewertung nutzt `niedrig`, `mittel`, `hoch` und `zu pruefen`. Ein Ansatz wird fuer die Synthese priorisiert, wenn er mindestens drei Bedingungen erfuellt: klarer Bezug zu gesundheitlicher Ungleichheit, belastbare Quellenlage, regionale Uebertragbarkeit und sichtbare Kooperation ueber einzelne Organisationen hinaus.
+Alle Ansätze werden zuerst als Kandidaten erfasst und dann entlang der Kriterien bewertet. Die Bewertung nutzt `niedrig`, `mittel`, `hoch` und `zu prüfen`. Ein Ansatz wird für die Synthese priorisiert, wenn er mindestens drei Bedingungen erfüllt: klarer Bezug zu gesundheitlicher Ungleichheit, belastbare Quellenlage, regionale Übertragbarkeit und sichtbare Kooperation über einzelne Organisationen hinaus.
 
-## Datenschutz und Veroeffentlichung
+## Datenschutz und Veröffentlichung
 
-Oeffentlich werden nur gepruefte, nicht-personenbezogene Katalog- und Synthesedaten. Interviewnotizen, Fokusgruppenmaterial, Kontaktdaten, interne Bewertungen und nicht freigegebene Arbeitsstaende werden in `data/internal/` abgelegt und nicht auf GitHub Pages ausgespielt.
+Öffentlich werden nur geprüfte, nicht-personenbezogene Katalog- und Synthesedaten. Interviewnotizen, Fokusgruppenmaterial, Kontaktdaten, interne Bewertungen und nicht freigegebene Arbeitsstände werden in `data/internal/` abgelegt und nicht auf GitHub Pages ausgespielt.
 
 Das Rechercheprotokoll liegt unter [`research/rechercheprotokoll.md`](research/rechercheprotokoll.md).
+
+
+

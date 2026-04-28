@@ -2,26 +2,29 @@
 title: "Handlungsempfehlungen"
 ---
 
-## Fuer lokale Verantwortliche
+## Für lokale Verantwortliche
 
 | Empfehlung | Handlungsschritt | Praxisbezug |
 |---|---|---|
-| Versorgungslage gemeinsam sichtbar machen | Lokale Daten, Erfahrungswissen und Buerger*innenperspektiven in einem kurzen Bedarfsprofil buendeln. | Gleichwertigkeitsbericht-Logik, ASZ Templin. |
-| Eine erkennbare Anlaufstelle schaffen | Beratung, Terminorientierung, Praevention und Weiterleitung an einem Ort oder ueber ein Team organisieren. | Gesundheitskiosk Billstedt/Horn, Slaintecare Healthy Communities. |
-| Fachkraefte entlasten | Aufgaben an NAePA, VERAH, Pflege, Physician Assistants und Sozialberatung verteilen. | Gesundheitszentrum Buesum, Bertelsmann Spotlight 2026 zu Teamarbeit. |
+| Versorgungslage gemeinsam sichtbar machen | Lokale Daten, Erfahrungswissen und Bürger*innenperspektiven in einem kurzen Bedarfsprofil bündeln. | Gleichwertigkeitsbericht-Logik, ASZ Templin. |
+| Eine erkennbare Anlaufstelle schaffen | Beratung, Terminorientierung, Prävention und Weiterleitung an einem Ort oder über ein Team organisieren. | Gesundheitskiosk Billstedt/Horn, Slaintecare Healthy Communities. |
+| Fachkräfte entlasten | Aufgaben an NäPA, VERAH, Pflege, Physician Assistants und Sozialberatung verteilen. | Gesundheitszentrum Büsum, Bertelsmann Spotlight 2026 zu Teamarbeit. |
 | Kooperation verbindlich machen | Kommune, KV, Krankenkassen, Praxen, Krankenhaus, Pflege und Zivilgesellschaft mit klaren Rollen an einen Tisch bringen. | ASZ Templin, Gesundes Kinzigtal. |
-| Vertrauen praktisch organisieren | Beschwerdewege, Rueckmeldeschleifen, einfache Sprache und feste Ansprechpartner*innen einbauen. | Social Prescribing, Gesundheitskioske, lokale Gesundheitsregionen. |
+| Vertrauen praktisch organisieren | Beschwerdewege, Rückmeldeschleifen, einfache Sprache und feste Ansprechpartner*innen einbauen. | Social Prescribing, Gesundheitskioske, lokale Gesundheitsregionen. |
 
-## Fuer Landes- und Bundespolitik
+## Für Landes- und Bundespolitik
 
 | Empfehlung | Ansatzpunkt | Erwartete Wirkung |
 |---|---|---|
-| Koordination finanzierbar machen | Lotsen-, Case-Management- und Netzwerkfunktionen als regelhafte Leistung absichern. | Weniger Navigationslast fuer Patient*innen und stabilere Kooperation. |
-| Sektorenuebergreifende Zentren ermoeglichen | Krankenhausplanung, KV-Strukturen, kommunale Traegerschaft und Innovationsfonds-Erfahrungen verbinden. | Regionale Versorgung bleibt erhalten, auch wenn Einzelstrukturen wegbrechen. |
-| Kommunale Gesundheitsplanung staerken | Kommunen mit Daten, Foerderung und Moderationskompetenz ausstatten. | Lokale Bedarfe werden frueher erkannt und passgenauer bearbeitet. |
-| Teamversorgung rechtlich erleichtern | Delegation, digitale Unterstuetzung und interprofessionelle Rollen klarer regeln. | Knappe aerztliche Zeit wird auf Kernaufgaben konzentriert. |
+| Koordination finanzierbar machen | Lotsen-, Case-Management- und Netzwerkfunktionen als regelhafte Leistung absichern. | Weniger Navigationslast für Patient*innen und stabilere Kooperation. |
+| Sektorenübergreifende Zentren ermöglichen | Krankenhausplanung, KV-Strukturen, kommunale Trägerschaft und Innovationsfonds-Erfahrungen verbinden. | Regionale Versorgung bleibt erhalten, auch wenn Einzelstrukturen wegbrechen. |
+| Kommunale Gesundheitsplanung stärken | Kommunen mit Daten, Förderung und Moderationskompetenz ausstatten. | Lokale Bedarfe werden früher erkannt und passgenauer bearbeitet. |
+| Teamversorgung rechtlich erleichtern | Delegation, digitale Unterstützung und interprofessionelle Rollen klarer regeln. | Knappe ärztliche Zeit wird auf Kernaufgaben konzentriert. |
 | Wirkung breiter messen | Neben Kosten und Inanspruchnahme auch Erreichbarkeit, Teilhabe, Gesundheitskompetenz und Vertrauen erfassen. | Gute Modelle werden nicht nur an kurzfristiger Einsparung bewertet. |
 
 ## Produktlogik
 
-Die Broschuere fuer lokale Akteure sollte als Umsetzungsleitfaden funktionieren: sechs Schritte, kurze Checklisten, Fallbeispiele und typische Stolpersteine. Das Policy Paper sollte drei Reformbotschaften zuspitzen: Koordination ist Infrastruktur, Primarversorgung braucht Teams und Gesundheitsversorgung ist Teil demokratischer Daseinsvorsorge. Die Abschlussstudie sollte die empirische Bruecke zwischen gesundheitlicher Ungleichheit, Versorgungserfahrung und institutionellem Vertrauen schlagen.
+Die Broschüre für lokale Akteure sollte als Umsetzungsleitfaden funktionieren: sechs Schritte, kurze Checklisten, Fallbeispiele und typische Stolpersteine. Das Policy Paper sollte drei Reformbotschaften zuspitzen: Koordination ist Infrastruktur, Primärversorgung braucht Teams und Gesundheitsversorgung ist Teil demokratischer Daseinsvorsorge. Die Abschlussstudie sollte die empirische Brücke zwischen gesundheitlicher Ungleichheit, Versorgungserfahrung und institutionellem Vertrauen schlagen.
+
+
+
