@@ -18,6 +18,8 @@ Der Datensatz `approaches.csv` enthaelt ausschliesslich oeffentlich freigegebene
 | `kriterienbewertung` | Bewertung entlang der Projektkriterien: `niedrig`, `mittel`, `hoch`, `zu pruefen`. |
 | `kurzbeschreibung` | Kurzer oeffentlicher Beschreibungstext. |
 | `links` | Oeffentliche Quellen-URL, falls vorhanden. |
+| `latitude` | Breitengrad fuer die Kartenansicht. |
+| `longitude` | Laengengrad fuer die Kartenansicht. |
 | `veroeffentlichungsstatus` | Muss fuer die Website `public` sein. |
 
 Nicht erlaubt sind Kontaktdaten, Interviewzitate ohne Freigabe, interne Bewertungen, personenbezogene Notizen oder sensible Rohdaten.

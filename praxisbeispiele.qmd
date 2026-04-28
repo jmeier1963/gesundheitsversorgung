@@ -5,6 +5,25 @@ page-layout: full
 
 Diese Seite zeigt die oeffentlich freigegebenen Praxisansaetze aus `data/public/approaches.csv`. Der Datensatz beginnt mit Beispielzeilen fuer die Struktur und wird im Projektverlauf durch recherchierte und gepruefte Ansaetze ersetzt oder erweitert.
 
+## Einstieg ueber die Karte
+
+<div class="map-shell">
+  <div id="practice-map" class="practice-map" aria-label="Landkarte der Praxisbeispiele">
+    <svg viewBox="0 0 1000 620" role="presentation" aria-hidden="true">
+      <rect width="1000" height="620" rx="18" fill="#eef4f1"/>
+      <path d="M129 106c96-54 190-66 292-48 102 17 157 76 260 63 92-11 146 27 199 91 52 64 54 154 18 229-37 76-120 94-196 121-77 27-158 56-241 35-83-20-98-93-169-124-70-30-180-18-223-82-45-67-26-178 60-285Z" fill="#dce9e3"/>
+      <path d="M556 84c57 33 77 82 65 147-11 65-54 106-111 132-57 27-127 38-174-3-47-40-42-107-30-169 12-61 32-127 91-147 58-20 102 7 159 40Z" fill="#cdded7"/>
+      <path d="M334 194c33-30 76-40 119-28 42 12 65 48 73 89 9 44-2 91-35 120-33 28-81 31-120 11-39-19-58-58-61-101-3-35-1-68 24-91Z" fill="#b9d0c6"/>
+      <path d="M283 386c54 4 95 31 122 76 25 43 19 88-8 127-24 34-68 45-110 37-45-9-86-37-98-82-13-48 8-101 48-130 15-11 30-29 46-28Z" fill="#d4e5de"/>
+      <path d="M621 350c38-23 83-13 111 19 29 34 34 84 12 122-23 40-69 56-113 44-42-12-74-48-75-92-1-38 32-72 65-93Z" fill="#d4e5de"/>
+    </svg>
+    <div id="map-markers" class="map-markers"></div>
+  </div>
+  <div id="map-list" class="map-list" aria-label="Praxisbeispiele auf der Karte"></div>
+</div>
+
+## Katalog
+
 ::: {.catalog-controls}
 <label>Region oder Land<br><select id="filter-location"><option value="">Alle</option></select></label>
 <label>Massnahmentyp<br><select id="filter-type"><option value="">Alle</option></select></label>
@@ -74,9 +93,26 @@ function fillSelect(id, values) {
   });
 }
 
+function projectPoint(row) {
+  const longitude = Number.parseFloat(row.longitude);
+  const latitude = Number.parseFloat(row.latitude);
+  const minLon = -12;
+  const maxLon = 31;
+  const minLat = 35;
+  const maxLat = 61;
+  const x = ((longitude - minLon) / (maxLon - minLon)) * 100;
+  const y = (1 - ((latitude - minLat) / (maxLat - minLat))) * 100;
+  return {
+    x: Math.min(96, Math.max(4, x)),
+    y: Math.min(94, Math.max(6, y))
+  };
+}
+
 function card(row) {
   const article = document.createElement("article");
   article.className = "catalog-card";
+  article.id = `example-${row.id}`;
+  article.dataset.exampleId = row.id;
   const link = row.links ? `<a href="${row.links}" rel="noopener" target="_blank">Quelle</a>` : "";
   article.innerHTML = `
     <div class="catalog-meta">${row.bundesland_land} · ${row.raumtyp} · ${row.umsetzungsstand}</div>
@@ -95,6 +131,45 @@ function card(row) {
   return article;
 }
 
+function focusExample(id) {
+  document.querySelectorAll(".catalog-card").forEach((cardElement) => {
+    cardElement.classList.toggle("is-highlighted", cardElement.dataset.exampleId === id);
+  });
+  document.querySelectorAll(".map-marker, .map-list button").forEach((element) => {
+    element.classList.toggle("is-active", element.dataset.exampleId === id);
+  });
+  const cardElement = document.getElementById(`example-${id}`);
+  if (cardElement) cardElement.scrollIntoView({ behavior: "smooth", block: "center" });
+}
+
+function renderMap(data) {
+  const markerLayer = document.getElementById("map-markers");
+  const list = document.getElementById("map-list");
+  markerLayer.replaceChildren();
+  list.replaceChildren();
+
+  data.forEach((row) => {
+    const point = projectPoint(row);
+    const marker = document.createElement("button");
+    marker.type = "button";
+    marker.className = "map-marker";
+    marker.dataset.exampleId = row.id;
+    marker.style.left = `${point.x}%`;
+    marker.style.top = `${point.y}%`;
+    marker.setAttribute("aria-label", row.name);
+    marker.title = row.name;
+    marker.addEventListener("click", () => focusExample(row.id));
+    markerLayer.appendChild(marker);
+
+    const listItem = document.createElement("button");
+    listItem.type = "button";
+    listItem.dataset.exampleId = row.id;
+    listItem.innerHTML = `<strong>${row.name}</strong><span>${row.ort_region} · ${row.bundesland_land}</span>`;
+    listItem.addEventListener("click", () => focusExample(row.id));
+    list.appendChild(listItem);
+  });
+}
+
 function applyFilters(data) {
   const selected = Object.fromEntries(Object.entries(columns).map(([id, key]) => [key, document.getElementById(`filter-${id}`).value]));
   return data.filter((row) => Object.entries(selected).every(([key, value]) => !value || row[key] === value));
@@ -104,6 +179,7 @@ function render(data) {
   const filtered = applyFilters(data);
   const catalog = document.getElementById("catalog");
   catalog.replaceChildren(...filtered.map(card));
+  renderMap(filtered);
   document.getElementById("catalog-count").textContent = `${filtered.length} von ${data.length} Eintraegen`;
 }
 

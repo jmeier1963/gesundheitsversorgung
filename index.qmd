@@ -23,15 +23,6 @@ Ein oeffentlicher Katalog guter Praxis, eine Synthese der Gelingensbedingungen u
 :::
 :::
 
-## Projektlogik
-
-| Phase | Zeitraum | Ergebnis |
-|---|---:|---|
-| Bedarfsphase | bis Q4 2026 | Forschungsstand, regionale Perspektiven, Kriterienmodell |
-| Bestandsphase | bis Q1 2027 | Katalog von 30 bis 50 deutschen und bis zu 5 europaeischen Praxisbeispielen |
-| Begleitphase | bis Q3 2027 | Vertiefte Fallstudien, Gelingensbedingungen, Handlungsschritte |
-| Verbreitungsphase | Q3/Q4 2027 | Abschlussstudie, Broschuere, Policy Paper, Fact Sheets, Website |
-
 ## Direkteinstieg
 
 - [Methodik](methodik.qmd): Forschungsdesign, Screening und Bewertungsmatrix.

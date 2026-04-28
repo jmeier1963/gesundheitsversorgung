@@ -22,6 +22,8 @@ $requiredColumns = @(
   "kriterienbewertung",
   "kurzbeschreibung",
   "links",
+  "latitude",
+  "longitude",
   "veroeffentlichungsstatus"
 )
 
@@ -73,6 +75,18 @@ foreach ($row in $rows) {
 
   if ($row.veroeffentlichungsstatus -ne "public") {
     throw "Row $rowNumber has non-public status in public dataset."
+  }
+
+  $latitude = 0.0
+  $longitude = 0.0
+  if (-not [double]::TryParse($row.latitude, [Globalization.NumberStyles]::Float, [Globalization.CultureInfo]::InvariantCulture, [ref]$latitude)) {
+    throw "Row $rowNumber has invalid latitude '$($row.latitude)'."
+  }
+  if (-not [double]::TryParse($row.longitude, [Globalization.NumberStyles]::Float, [Globalization.CultureInfo]::InvariantCulture, [ref]$longitude)) {
+    throw "Row $rowNumber has invalid longitude '$($row.longitude)'."
+  }
+  if ($latitude -lt -90 -or $latitude -gt 90 -or $longitude -lt -180 -or $longitude -gt 180) {
+    throw "Row $rowNumber has coordinates outside valid ranges."
   }
 }
 
